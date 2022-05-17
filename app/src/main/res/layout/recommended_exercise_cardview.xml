@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/recommendedExerciseCardView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="20dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:id="@+id/recommendedExerciseNameTextView"
+            android:layout_width="310dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="2dp"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Exercise Name" />
+
+
+
+        <EditText
+            android:id="@+id/recommendedExerciseRepsEditText"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="2dp"
+            android:ems="10"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:textAlignment="center"
+            app:layout_constraintStart_toEndOf="@+id/exerciseSetsTextView"
+            app:layout_constraintTop_toBottomOf="@+id/recommendedExerciseNameTextView"
+            tools:text="10" />
+
+        <TextView
+            android:id="@+id/repsTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:text="reps"
+            android:textSize="16sp"
+            app:layout_constraintStart_toEndOf="@+id/recommendedExerciseRepsEditText"
+            app:layout_constraintTop_toBottomOf="@+id/recommendedExerciseNameTextView" />
+
+        <EditText
+            android:id="@+id/exerciseSetsEditText"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="2dp"
+            android:ems="10"
+            android:imeOptions="actionDone"
+            android:inputType="number"
+            android:textAlignment="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recommendedExerciseNameTextView"
+            tools:text="4" />
+
+        <TextView
+            android:id="@+id/exerciseSetsTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="16dp"
+            android:text="sets"
+            android:textSize="16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/exerciseSetsEditText"
+            app:layout_constraintTop_toBottomOf="@+id/recommendedExerciseNameTextView" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

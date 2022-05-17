@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.PRCalculatorFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/prCalculatorTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="PR Calculator"
+            android:textColor="#8BC34A"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/prCalculatorDescriptionTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Please input your highest weight with the corresponding reps down below : "
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorTitleTextView" />
+
+        <TextView
+            android:id="@+id/prCalculatorWeightTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="22dp"
+            android:text="Weight : "
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorDescriptionTextView" />
+
+        <EditText
+            android:id="@+id/prCalculatorWeightEditText"
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:hint="Weight"
+            android:inputType="number"
+            app:layout_constraintStart_toEndOf="@+id/prCalculatorWeightTextView"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorDescriptionTextView" />
+
+        <TextView
+            android:id="@+id/prCalculatorRepsTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="35dp"
+            android:text="Reps :"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorWeightTextView" />
+
+        <EditText
+            android:id="@+id/prCalculatorRepsEditText"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:hint="Reps"
+            android:inputType="number"
+            app:layout_constraintStart_toEndOf="@+id/prCalculatorRepsTextView"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorWeightEditText" />
+
+        <Button
+            android:id="@+id/prCalculatorButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="25dp"
+            android:text="Calculate"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorRadioGroup" />
+
+        <TextView
+            android:id="@+id/prCalculatorResultTextView"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="5dp"
+            android:text="Your 1 Rep Max should be around :"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorDescriptionTextView" />
+
+        <RadioGroup
+            android:id="@+id/prCalculatorRadioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorUnitTextView">
+
+            <RadioButton
+                android:id="@+id/lbsRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LBS" />
+
+            <RadioButton
+                android:id="@+id/kgRadioButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="KG" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/prCalculatorUnitTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Unit :"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/prCalculatorRepsEditText" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

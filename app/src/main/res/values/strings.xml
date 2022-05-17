@@ -1,0 +1,1426 @@
+<resources>
+    <string name="app_name">Go Jim</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="descriptionText">In this app, you can : \n \n
+	. Create and customize your own workouts and save them so you don\'t have to memorize them anymore \n \n
+	. Choose your own custom theme in settings \n \n
+	. Keep track of your progress by saving your PRs for each exercise when you press on the name \n \n
+		.Turn on thumbnails for all the exercises if you don\'t know their names \n \n
+	. Learn more about a certain exercise when you\'re choosing them, press on the name (or picture if you have thumbnails enabled)
+	and a very detailed description will pop up \n \n
+	. Try out the PR calculation section where you can get an estimated one rep max weight for any exercise \n \n
+	. Try out our Recommended Workouts section if you don\'t know what exercises to choose \n \n
+		If you have any exercise that is not in the app and that you want me to add, please let us know in comments, we will implement them in the next updates. \n \n
+	That\'s about it, hope you enjoy the app! \n \n \n \n
+	PS: If your exercises don\'t load on the selected day, just swipe down to refresh.
+	</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bench_press">1.Grasp the bar just outside shoulder-width and arch your back so there\’s space between your lower back and the bench. \n \n
+    			2.Pull the bar out of the rack and lower it to your sternum, tucking your elbows about 45° to your sides. \n \n
+    			3.When the bar touches your body, drive your feet hard into the floor and press the bar back up.
+    </string>
+    <string name="dumbbell_press">1.Lie back on a flat bench with a dumbbell in each hand. \n \n
+    			2.Hold the weights at shoulder-level \n \n
+    			3.Then press the weights straight up.
+    </string>
+    <string name="smith_machine_incline_press">1.Set an adjustable bench to a 30°-45° incline, and roll it into the center of a Smith machine rack. \n \n
+    			2.Grasp the bar with an overhand, shoulder-width grip. \n \n
+    			3.Unrack the bar, lower it to the upper part of your chest, and press straight up.
+    </string>
+    <string name="incline_dumbbell_flies">1.Set an adjustable bench to a 30°-45° angle, and lie back on it with a dumbbell in each hand. \n \n
+    			2.Turn your wrists so your palms face each other. \n \n
+    			3.Press the weights straight over your chest, then, keeping a slight bend in your elbows, spread your arms open as if you were going for a big bear hug. \n \n
+    			4.Lower your arms until you feel a stretch in your pecs, then bring the weights back together over your chest.
+    </string>
+    <string name="cable_crossover">1.Stand between two facing cable stations with both pulleys set midway between the top and bottom of the station. \n \n
+    			2.Attach a D-handle to each pulley and hold one in each hand. \n \n
+    			3.Keep your elbows slightly bent, and step forward so there’s tension on the cables. \n \n
+    			4.Flex your pecs as you bring your hands together out in front of your chest. Alternate stretching and flexing after each set.
+    </string>
+    <string name="incline_dumbbell_press">1.Set an adjustable bench to a 30°-45° angle and lie back on it with a dumbbell in each hand at shoulder-level. \n \n
+    			2.Press the weights over your chest.
+    </string>
+    <string name="chest_press_machine">1.Load plates on both sides of a flat-press machine, and adjust the seat so that both of your feet are flat on the floor. \n \n
+    			2.Grasp the handles and press to a full lockout.
+    </string>
+    <string name="dumbbell_flies">1.Lie back on a flat bench with a dumbbell in each hand. \n \n
+    			2.Keep a slight bend in your elbows and spread your arms wide, lowering the weights until they’re even with your chest. \n \n
+    			3.Flex your pecs and lift the weights back to the starting position.
+    </string>
+    <string name="low_cable_crossover">1.Stand between two facing cable stations and attach a D-handle to the low pulleys on each. \n \n
+    			2.With a handle in each hand and elbows slightly bent, raise your arms from waist height to out in front of your chest, flexing your pecs as you bring them together. \n \n
+    </string>
+    <string name="low_incline_press">1.Set an adjustable bench to an incline of no more than 30°, or rest a flat bench on a weight plate or mat to tilt it slightly. \n \n
+    			2.Grasp the bar just outside shoulder-width, and arch your back so there\’s space between your lower back and the bench. \n \n
+    			3.Pull the bar out of the rack and lower it to your sternum, tucking your elbows about 45° to your sides. \n \n
+    			4.When the bar touches your body, drive your feet hard into the floor and press the bar back up.
+    </string>
+    <string name="speed_bench_press">1.Bench press as described, but do so on a totally flat bench. \n \n
+    			2.Use 60% of your max. \n \n
+    			3.So if you think you can bench press 250lbs one time, perform your sets with 150, exploding each rep off your chest as fast as you can.
+    </string>
+    <string name="landmine_press">1.Wedge the end of the barbell into a corner of the room (to avoid damage to the walls, you may have to wrap a towel around it). \n \n
+    			2.Load the opposite end with weight and grasp it toward the end of the barbell sleeve with your right hand. \n \n
+    			3.Stagger your stance so your left leg is in front. Press the bar straight overhead.
+    </string>
+    <string name="floor_press">1.Lie on the floor with a dumbbell in each hand. \n \n
+    			2.Your palms should face each other and your triceps (but not your elbows) should rest on the floor. \n \n
+    			3.Explosively press the dumbbells up. \n \n
+    			4.Lower them until only your triceps touch the floor. \n \n
+    			5.Pause for a moment, then begin the next rep. Increase the weight gradually each set.
+    </string>
+    <string name="prone_flies">1.Hold a dumbbell in each hand and get into a pushup position on the floor with palms facing each other. \n \n
+    			2.Spread your arms apart as in a normal dumbbell flye and lower your body until you feel a stretch in your chest, then squeeze the dumbbells and bring your hands back to pushup position. \n \n
+    			3.Keep your abs and glutes braced and your back flat throughout. If you’re using plate-loaded dumbbells, you may be able to roll the weight plates on the floor during the flye. \n \n
+    			4.Otherwise, you can place a towel under each dumbbell to facilitate sliding. If this is too difficult, perform the exercise on your knees.
+    </string>
+    <string name="pullover">1.Lie on your back on the floor and hold one dumbbell overhead with both hands. \n \n
+    			2.Press the weight over your chest, then reach back over your head, bending your elbows only slightly. \n \n
+    			3.Continue until you feel a stretch in your lats, then pull the dumbbell back over your chest. \n \n
+    			4.Take a deep breath every time you lower the dumbbell behind you.
+    </string>
+    <string name="plate_pressout">1.Hold a pair of light weight plates together, smooth side out, between your palms right in front of your chest. \n \n
+    			2.Squeeze the plates together, focusing on your chest, and press them out in front of you until your arms are extended. \n \n
+    			3.Flare your lats and pull the weights back to your chest. \n \n
+    			4.Complete your reps and then, on the second set, press the weights downward from your chest at a 45-degree angle. \n \n
+    			5.On the third set, press them upward at a 45-degree angle.
+    </string>
+    <string name="three_way_flie">1.Attach a suspension trainer to a sturdy overhead object and lengthen the straps to a point where you would do pushups. \n \n
+    			2.Grasp the handles and get into pushup position with hands under your shoulders. \n \n
+    			3.Your entire body should be straight and your core braced. \n \n
+    			4.Bring your arms out to your sides as if you were giving someone a bear hug. \n \n
+    			5.Lower your body until you feel a stretch in your chest and then bring your arms together again. \n \n
+    			6.That\’s one rep of the flye. Perform three reps. \n \n
+    			7.Then, from the starting position, open your arms but keep your elbows bent so that the move looks like a combination of a pushup and a flye. \n \n
+    			9.Press yourself back up. \n \n
+    			10.That\’s one rep of the bent-arm flye. \n \n
+    			11.Perform three reps. \n \n
+    			12.From there, return to the starting position and perform pushups on the handles. \n \n
+    			13.All of the above equals one set.
+    </string>
+    <string name="pushups">1.Get into a pushup position with hands under your shoulders. \n \n
+    			2.Your entire body should be straight and your core braced. \n \n
+    			3.Lower your body, keeping your elbows tucked near your torso and your head neutral, until your chest is almost touching the floor. \n \n
+    			4.Fire your chest and triceps and raise your body back to the pushup position.
+	</string>
+    <string name="one_armed_medicine_ball_pushups">1.Get into a pushup position resting your right hand on the medicine ball and left hand on the floor.
+    			2.Lower your body until your chest is just above the floor, then push back up.
+	</string>
+    <string name="medicine_ball_pushups_drop_n_pop">1.Place both hands on the ball and get into pushup position. \n \n
+    			2.Quickly let go of the ball and spread your hands out to shoulder width on the floor. \n \n
+    			3.When you feel your chest touch the ball, push yourself up fast so your hands come off the floor and land on the ball again.
+	</string>
+    <string name="medicine_ball_crossover_pushup">1.Perform a pushup with one hand on the ball. \n \n
+    			2.At the top of the pushup, take your hand off the ball and roll it to the other hand. \n \n
+    			3.Put your other hand and the ball, and do another rep.
+	</string>
+    <string name="plyo_pushups">1.Perform pushups but explode upward on each rep so your hands leave the floor and you can clap before landing. \n \n
+    			2.When you land, go immediately into the next rep. Stop the set as soon as your movement slows down, even if it\’s before six reps are completed.
+	</string>
+    <string name="wide_grip_pushups">1.Place your hands wider than shoulder width. \n \n
+    			2.Perform pushups.
+	</string>
+    <string name="band_resisted_pushup_with_feet_elevated">1.Grasp the end of the band in one hand and wrap it around your back. Pin both hands to the floor with the ends of the band in your palms. \n \n
+    			2.Rest your feet on a box, bench, or mats so that your body forms a straight line parallel to the floor. \n \n
+    			3.Perform pushups.
+	</string>
+    <string name="band_resisted_flies">1.Attach a band to a sturdy object at shoulder height and repeat with another adjacent to it. \n \n
+    			2.Alternatively, tie two bands together and anchor them at the same point behind you. \n \n
+    			3.Hold the opposite ends of the bands in each hand and step forward so that your arms are drawn back 90 degrees to your sides and you feel a stretch in your pecs. \n \n
+    			4.Keeping your elbows slightly bent, bring your hands together in front of your chest as if you were giving someone a bear hug.
+	</string>
+    <string name="pec_deck">1.Set up the Pec Deck so the vertical bars are positioned close to the machine. \n \n
+			2.Adjust the seat so the handles are roughly chest height. \n \n
+			3.While facing away from the machine, reach back with one hand to grab one handle, then the other. \n \n
+			4.Pull the handles together and resist tension on the way back
+	</string>
+    <string name="wide_grip_dips">1.Keeping your arms straight, hold your body up on two parallel bars that are a couple inches wider than shoulder-width apart. \n \n
+    			2.Descend until your chest is roughly in line with your hands, then push back up to the starting position, locking out your elbows. \n \n
+    			3.Descend while keeping your torso slightly horizontal to the ground, which emphasizes the chest muscles over your triceps.
+	</string>
+	<string name="triceps_extension">1.Start in a pushup position, then rest your forearms on the floor with palms down. \n \n
+    			2.Keeping your core tight and your body in a straight line, extend your elbows so your arms are straight.
+	</string>
+	<string name="close_grip_pushup">1.Perform these as you would normal pushups, but position your hands close together. \n \n
+    			2.The closer together your hands are, the more this exercise emphasizes the triceps.
+	</string>
+	<string name="close_grip_bench_press">1.Grasp the bar with your index fingers on the inside edge of the knurling (the rough part of the bar). \n \n
+			2.Arch your back so there’s space between your lower back and the bench. \n \n
+			3.Pull the bar off the rack and lower it to your sternum, tucking your elbows about 45° to your sides. \n \n
+			4.When the bar touches your body, drive your feet hard into the floor and press the bar back up. \n \n
+			5.On your last set, use half the weight and perform as many reps as possible.
+	</string>
+	<string name="decline_triceps_extension">1.Set an adjustable bench to a slight decline (around 30°), and lie on it with a dumbbell in each hand. \n \n
+			2.Hold the weights over your chest, palms facing each other. \n \n
+			3.Bend your elbows and lower the weights to the sides of your head. \n \n
+			4.Choose a weight you can do 12 reps with on the first set, and use it for every set.
+	</string>
+	<string name="band_pushdown">1.Attach an elastic exercise band to a sturdy overhead object and grasp each side of the loop. \n \n
+			2.Keeping your elbows tight against your sides, extend your arms downward. \n \n
+			3.You can perform a pushdown on a cable machine instead if you prefer.
+	</string>
+	<string name="close_grip_floor_press">1.Lie on the floor and roll the barbell up to your chest or have a partner hand it to you. \n \n
+			2.Grasp the bar at about shoulder-width, and arch your back so there’s space between your lower back and the floor. \n \n
+			3.Lower the bar to your sternum, tucking your elbows about 45° to your sides. \n \n
+			4.When your triceps touch the floor (not your elbows), press the bar back up.
+	</string>
+	<string name="lying_triceps_extension">1.Press the bar over your chest, then let your upper arms drift back to about a 45° angle. \n \n
+			2.Bend your elbows to lower the bar behind your head, then extend them to return to the starting position. \n \n
+			3.Keep your elbows in line with your wrists throughout.
+	</string>
+	<string name="pullovers">1.Hold the bar overhead with an overhand, shoulder-width grip, and lie back on the floor. \n \n
+			2.Press the bar over your head, then reach back over your head, bending your elbows only slightly. \n \n
+			3.Continue until you feel a stretch in your lats, then pull the bar back over your chest, flexing your triceps as you go. \n \n
+			4.Focus your mind on your triceps, and you\’ll feel them engage more throughout the exercise.
+	</string>
+	<string name="tate_press">1.Lie back on a bench or surface with dumbbells in each hand, arms extended over your chest, and palms facing your feet. \n \n
+			2.Point your elbows outward and bend them to lower the weights almost to your chest, so they make L shapes. \n \n
+			3.Extend your elbows.
+	</string>
+	<string name="underhand_kickback">1.Stand holding a dumbbell in each hand and drop your hips back, lowering your torso until it\’s almost parallel to the floor. \n \n
+			2.Turn your palms to face in front of you, and, keeping your upper arms against your sides, extend your elbows until your arms are parallel to your torso.
+	</string>
+	<string name="one_arm_overhead_extension">1.Hold one dumbbell, and raise your arm behind your head with your elbow bent. \n \n
+			2.Extend your elbow to point your arm straight overhead.
+	</string>
+	<string name="dip">1.Use dip bars if available, or place your palms on a bench or chair, and extend your legs in front of you. \n \n
+			2.Lower your body until your upper arms are parallel to the floor but no lower. \n \n
+			3.Extend your elbows to come up.
+	</string>
+	<string name="band_triceps_extension">1.Attach the band to a sturdy overhead object and grasp the free end (or handles) with both hands. \n \n
+			2.Tuck your elbows to your sides and extend your elbows to lockout.
+	</string>
+	<string name="diamond_pushup">1.To perform the diamond pushup, get into pushup position with your hands close together so your index fingers and thumbs touch and form a diamond shape. \n \n
+			2.Keeping your abs braced and torso in line with your hips, lower your body until your chest nearly touches the floor.
+	</string>
+	<string name="suspension_trainer_triceps_extension">1.Lengthen the straps and stand underneath the trainer\’s anchor point. \n \n
+			2.Lean your weight forward and bend your elbows so you feel a stretch in your triceps. \n \n
+			3.Your palms should face each other behind your head. \n \n
+			4.Keeping your body straight and your abs braced, extend your elbows, rotating your palms so they face down in the extended position.
+	</string>
+	<string name="renegade_row">1.Start in the top position of a pushup with your hands on dumbbells shoulder-width apart. \n \n
+    			2.Row one dumbbell toward the side of your body while balancing on the opposite hand and feet. \n \n
+    			3.Pause for one second at the top and return the weight slowly to the start position. \n \n
+    			4.Repeat on the other side.
+	</string>
+	<string name="standing_dumbbell_flies">1.Hold a dumbbell in each hand by your sides. \n \n
+    			2.Without shrugging, use your upper body to swing the weights up a few inches. \n \n
+    			3.Your arms and torso will form an upside down V shape. \n \n
+    			4.Think of it as a lateral raise with momentum but without full range of motion.
+	</string>
+	<string name="face_pulls">1.Attach a rope handle to the top pulley of a cable station. \n \n
+    			2.Grasp an end in each hand with palms facing each other. \n \n
+				3.Step back to place tension on the cable. \n \n
+    			4.Pull the handles to your forehead so your palms face your ears and your upper back is fully contracted.
+	</string>
+	<string name="high_pull">1.Grasp the bar with hands about double shoulder width and hold it in front of your thighs. \n \n
+    			2.Bend your knees and hips so the bar hangs just above your knees. \n \n
+    			3.Explosively extend your hips as if jumping and pull the bar up to shoulder level with elbows wide apart, as in an upright row.
+	</string>
+	<string name="seated_dumbbell_clean">1.Hold a dumbbell in each hand and sit on the edge of a bench. \n \n
+    			2.Keeping your lower back flat, lean forward. \n \n
+    			3.Explosively straighten your body and shrug the weights so your arms rise. \n \n
+    			4.Allow the momentum to flip your wrists so you catch the weights at shoulder level.
+	</string>
+	<string name="trap_raise">1.Set a bench to a low incline and lie chest-down with a dumbbell in each hand and your palms facing. \n \n
+    			2.Retract your shoulder blades, then raise the weights straight out so your arms are parallel to the floor.
+	</string>
+	<string name="clean_and_press">1.Stand with feet shoulder width. \n \n
+    			2.Keeping your lower back arched, bend your hips back to lower your torso and grasp the bar with your hands shoulder width. \n \n
+    			3.Extend your hips to lift the bar off the floor. \n \n
+    			4.When it gets past your knees, jump and shrug the bar so that momentum raises it and you catch it at shoulder level. \n \n
+    			5.Brace your abs and stand tall. Press the bar straight overhead.
+	</string>
+	<string name="snatch_grip_high_pull">1.Set up as you did for the clean and press, but grasp the bar with hands double shoulder width. \n \n
+    			2.Explode the bar upward until it\’s at chest level and your upper arms are parallel to the floor. \n \n
+    			3.Try to push your chest out as you lift the bar and contract your upper back completely.
+	</string>
+	<string name="band_lateral_raise">1.Step on the free end of each band with the opposite foot so the bands form an X in front of your body. \n \n
+    			2.Raise your arms 90 degrees out to the sides until your upper arms are parallel to the floor.
+	</string>
+	<string name="band_front_raise">1.Stand on bands and hold the opposite ends. \n \n
+			2.Raise your arms in front of your body to shoulder height.
+	</string>
+	<string name="band_bentover_lateral_raise">1.Stand on the end of one band with your right foot and hold it with your left hand. \n \n
+    			2.Do the opposite with another band so that the bands cross each other. \n \n
+    			3.Bend your hips back until your torso is almost parallel to the floor. \n \n
+    			4.The bands should be taut in this starting position. \n \n
+    			5.Squeeze your shoulder blades together and raise your arms out to your sides.
+	</string>
+	<string name="band_w_raise">1.Attach bands to a sturdy object at shoulder level and hold the opposite ends in each hand. \n \n
+    			2.Stand back to put tension on the bands. \n \n
+    			3.Squeeze your shoulder blades together and row the bands to your shoulders with elbows flared out so your upper arms make a W shape. \n \n
+    			4.Hold for two seconds.
+	</string>
+	<string name="single_arm_cable_row">1.Stand facing the pulley, holding the D-handle in left hand, palm facing down, and step back until cable is taut. \n \n
+    			2.Sink back into your butt and keep your chest high, right hand on right hip. \n \n
+    			3.Retract your shoulder blades and draw your elbow straight back. \n \n
+    			4.As you pull, rotate your palm toward your body, so it\’s next to the rib cage.
+	</string>
+	<string name="suspension_trainer_y_raise">1.Grasp the handles and stand with feet about shoulder width. \n \n
+    			2.Lean back 45–60 degrees, so your body is supported by the suspension trainer, and brace your abs. \n \n
+    			3.Raise your arms up and out into a Y shape with palms facing forward. \n \n
+    			4.Your body will become more vertical, but don’t allow your shoulders to lose tension at the top of the movement. \n \n
+    			5.Your weight will shift from the back foot to the front foot.
+	</string>
+	<string name="suspension_trainer_rear_delts_raise">1.Shorten the length of the handles, but stand as you did for the Y raise. \n \n
+    			2.Open your arms out to your sides with palms facing in until your shoulder blades are squeezed together. \n \n
+    			3.Allow a little bend in your elbows.
+	</string>
+	<string name="dive_bomber_pushup">1.Get into pushup position. \n \n
+    			2.Push your hands into the floor to drive your weight back so your hips rise into the air. \n \n
+    			3.Your back should be straight and your head behind your hands. \n \n
+    			4.Lower your body in an arcing motion so that your chest scoops downward and nearly scrapes the floor. \n \n
+    			5.Continue moving forward as you press your body up so your torso is vertical and your legs are straight and nearly on the floor. That\’s one rep.
+	</string>
+	<string name="pike_press">1.Get into pushup position and push your hips back so your torso is nearly vertical. \n \n
+    			2.Your hands, arms, and head should be in a straight line. \n \n
+    			3.Lower your body until your head nearly touches the floor between your hands and then press back up. \n \n
+	</string>
+	<string name="dip_shoulders">1.Rest the palms of your hands on a bench or chair, and, if available, place your heels on another elevated object in front of you so your legs are suspended. \n \n
+    			2.Lower your body until your upper arms are parallel to the floor.
+	</string>
+	<string name="lateral_plank_walk">1.Get into pushup position and simultaneously move your left hand over your right while your right leg steps out wide. \n \n
+			2.Now bring the right hand out and walk your left foot into a normal pushup footing. \n \n
+			3.That\’s  one shuffle. Continue \'walking\' for 10 shuffles and then walk in the opposite direction to get back to the starting position. \n \n
+			4.Keep your core braced and your hips level at all times.
+	</string>
+	<string name="dumbbell_neutral_grip_overhead_press">1.Hold a dumbbell in each hand at shoulder level with palms facing each other and elbows pointing forward. \n \n
+    			2.Brace your core and press the weights straight overhead. \n \n
+    			3.At the top, shrug your shoulders and hold for a second.
+	</string>
+	<string name="dumbbell_raise_complex">1.Hold dumbbells at your sides with palms facing you. \n \n
+    			2.Raise the weights up in front of you to shoulder level with thumbs pointing up. \n \n
+    			3.Complete 12–15 reps and then raise the weights out to your sides 90 degrees (bend your elbows a bit as you lift). \n \n
+    			4.Complete your reps and then switch to a lighter pair of dumbbells. \n \n
+    			5.Raise them out to your sides and up to ear level with straight arms and thumbs pointing up. \n \n
+    			6.Hold this position for 30 seconds. Squeeze your glutes to help support you.
+	</string>
+	<string name="snatch_grip_low_pull">1.Set up as you did for the high pull, but when you jump, perform an explosive shrug and bend your elbows to pull the bar into your belly. \n \n
+    			2.Do not continue to lift the bar up to chest level.
+	</string>
+	<string name="snatch_grip_shrug_pull">This is done the same as the low-pull, but keep your elbows straight and perform an explosive shrug once the bar passes your knees.
+	</string>
+	<string name="rack_deadlift">1.Set up the bar on some mats, boxes, or the safety rods of a power rack so that it rests just below your knees. \n \n
+    			2.Stand with feet hip width and, keeping your lower back in its natural arch, bend your hips back and grasp the bar just outside your knees. \n \n
+    			3.Pull the bar into your body tightly, extend your hips and stand up.
+	</string>
+	<string name="farmers_walk">1.Pick up the heaviest set of dumbbells you can handle and walk. \n \n
+    			2.Squeeze the handles hard and walk with your chest out and shoulders back. \n \n
+    			3.If you don\’t have the space to walk in a straight line, walk in a figure-eight pattern.
+	</string>
+	<string name="dumbbell_deadlift_shrug_combo">1.Hold dumbbells at your sides and stand with feet shoulder width. \n \n
+    			2.Bend your hips back to squat down until the weights are knee level. \n \n
+    			3.Now explode upward and shrug hard at the top. \n \n
+    			4.Reset your feet before beginning the next rep.
+	</string>
+	<string name="bottoms_up_kettlebell_press">1.Stand tall with feet shoulder-width apart, gripping a kettlebell in one hand at your shoulder. \n \n
+    			2.Grasp the kettlebell’s handle, positioning the kettlebell upside down, so the bell is pointing toward the ceiling. \n \n
+    			3.Keeping your wrist perfectly straight and the kettlebell steady, press your arm straight up, extending your elbow. \n \n
+    			4.Carefully bend your elbow and lower the kettlebell back to shoulder height.
+	</string>
+	<string name="incline_bench_press">1.Set an adjustable bench to a 30- to 45-degree angle and lie back on it. \n \n
+    			2.Grasp the bar just outside shoulder width, arch your back, and pull it off the rack. \n \n
+    			3.Lower the bar to the upper part of your chest and then drive your feet into the floor as you press it back up.
+	</string>
+	<string name="machine_shoulder_press">1.Adjust the seat of a shoulder press machine so that the handles are at shoulder level. \n \n
+    			2.If you have shoulder problems, and if your machine allows it, grasp the handles so your palms face each other. \n \n
+    			3.Otherwise, grasp them with palms facing forward as normal. \n \n
+    			4.Make sure your elbows track in a normal pressing path as you press the handles overhead.
+	</string>
+	<string name="bentover_reverse_flies">1.Set up as you did for the neutral-grip row but with lighter dumbbells. \n \n
+    			2.Raise your arms out to your sides 90 degrees, squeezing your shoulder blades together at the top for a second. \n \n
+    			3.Complete your set and then rest until the end of three minutes, when your timer goes off.
+	</string>
+	<string name="waiters_walk">1.Grab a dumbbell or kettlebell in one hand and hold it either overhead or with your elbow bent so it\’s near your face. \n \n
+    			2.Keep your shoulder blades pulled down and back, and your wrist straight. \n \n
+    			3.Fire your glutes as you walk 10 yards out and 10 yards back. \n \n
+    			4.Switch hands and repeat.
+	</string>
+	<string name="upright_row">1.Hold the bar with hands slightly farther outside shoulder width than for the overhead press. \n \n
+    			2.Squeeze your shoulder blades together and pull the bar to chest height. \n \n
+    			3.Your elbows should be bent 90 degrees in the top position and your upper arms should be horizontal.
+	</string>
+	<string name="feet_elevated_pushup">1.Assume a pushup position with your feet on a stair, bench, or Swiss ball. \n \n
+    			2.Lower while inhaling until your chest nearly touches the floor. \n \n
+    			3.Exhale as you push back up. \n \n
+    			4.You can also place your hands on top of the medicine ball. \n \n
+    			5.Keeping core tight and neck neutral, lower chest toward ball as far as possible, or until elbows reach 90 degrees.
+	</string>
+	<string name="suspension_trainer_knee_tuck">1.Start in pushup position with hands beneath shoulders and each foot inside a suspension trainer strap so the straps hang vertically. \n \n
+    			2.While keeping your shoulders stable, pull your knees toward your chest. \n \n
+    			3.Move slow and controlled.
+	</string>
+	<string name="t_pushup">1.Start in pushup position, arms straight, with hands on light dumbbells (or start without weights, as shown). \n \n
+    			2.Lower yourself and as you push back up, lift your left arm and rotate to the left until your left arm is straight up and your right side faces the floor. \n \n
+    			3.Your body should look like a \'T\' on its side. \n \n
+    			4.Return to starting position and repeat on the other side.
+	</string>
+	<string name="dumbbell_incline_row">1.Straddle the seat of an incline bench and lie chest down, holding a dumbbell in each hand with palms facing in, both feet on the floor. \n \n
+    			2.Retract your shoulder blades and row both dumbbells parallel to your hips.
+	</string>
+	<string name="offset_single_arm_chest_press">1.Lie on a bench with your left glute and left shoulder blade on the bench and right glute and right shoulder blade off the bench. \n \n
+    			2.Hold a dumbbell in your right hand and either extend your opposite arm or hold on to the bench just above your head. \n \n
+			3.Lower the weight until your elbow is in line with your shoulder, then press it up until your arm is fully extended.
+	</string>
+	<string name="angled_press">1.Grasp a light dumbbell or kettlebell with both hands and, keeping your lower back arched, bend your hips back until your torso makes a 45-degree angle. \n \n
+    			2.Hold  the weight at shoulder level as you would to do a normal overhead press, then press it at that angle. \n \n
+			3.Hold the need position for a moment.
+	</string>
+	<string name="inverted_row">1.Set a barbell in a rack at waist level. Slide under the bar and grab it overhand. \n \n
+    			2.Your body should be in a straight line from neck to ankles. \n \n
+    			3.Hang with your arms straight and only your heels touching the floor. \n \n
+    			4.Pull your chest to the bar, then return to starting position.
+	</string>
+	<string name="barbell_overhead_press">1.Set the bar up in a squat rack or cage, and grasp it just outside shoulder width. \n \n
+    			2.Take the bar off the rack and hold it at shoulder level with your forearms perpendicular to the floor. \n \n
+    			3.Squeeze the bar and brace your abs. Press the bar overhead, pushing your head forward and shrugging your traps as the bar passes your face.
+	</string>
+	<string name="single_arm_cable_front_raise">1.Face away from the pulley, with D-handle in left hand, fist close to your body and down, right hand 2 on right hip. \n \n
+    			2.With soft knees and a tight core, keeping arm fully extended, raise left arm until the fist is in line with the shoulder. \n \n
+    			3.Hold for 1 second, then lower for 1 rep. \n \n
+    			4.Complete all reps on the right side, then switch to left.
+	</string>
+	<string name="cat_cow">1.Start on all fours with hands beneath shoulders and knees on the ground. \n \n
+    			2.Inhale, dropping your chest as you push your hips and shoulder blades back into cow position. \n \n
+    			3.Lift your chin and chest and gaze forward. \n \n
+    			4.Exhale as you draw your belly button to your spine and round your back toward the ceiling to transition to cat.
+	</string>
+	<string name="suspension_trainer_pike_pushup">1.Attach the suspension trainer to a sturdy object overhead, and lower the foot cradles to about knee height (you want your body to be in a straight line when you rest your feet in them). \n \n
+    			2.Get into pushup position with your feet in the cradles and hands placed shoulder width on the floor. \n \n
+    			3.Keeping your abs braced, lower your body until your chest is just above the floor and then push back up. \n \n
+    			4.Now bend your hips and raise them into the air until your torso is vertical. \n \n
+    			5.Straighten your body again. That\’s one rep.
+	</string>
+	<string name="pullup">1.Grab the bar with an overhand grip. Hanging from the bar, pull your shoulder blades back and down to lift your body and build momentum. \n \n
+    			2.Finish by pulling up with your arms.
+	</string>
+	<string name="cross_body_landmine_row">1.Stand with landmine on left, feet slightly staggered, right leg forward. \n \n
+    			2.Grab the barbell in left hand, hinge your torso forward, and extend both arms down to start. \n \n
+    			3.Keeping right fingertips pointed to floor, row left arm so elbow points to back wall.
+	</string>
+	<string name="seated_single_arm_press">1.Sit on a bench, feet on floor, a heavy dumbbell in left hand, holding it at shoulder level to start. \n \n
+    			2.Press dumbbell overhead, then return to start for 1 rep. \n \n
+    			3.Do all reps on left side, then switch sides.
+	</string>
+	<string name="dumbbell_bentover_lateral_raise">1.Hold a dumbbell in each hand and, keeping your lower back in its natural arch, bend your hips back until your torso is about parallel to the floor. \n \n
+    			2.Allow your arms to hang. \n \n
+    			3.Now squeeze your shoulder blades together and raise your arms out 90 degrees, with thumbs pointing up, until your upper arms are parallel to the floor.
+	</string>
+	<string name="suspension_trainer_row">1.Attach a suspension system trainer to a pullup bar. \n \n
+    			2.Grab the handles so you’re looking up at the pullup bar. \n \n
+    			3.Walk out until you can extend your arms without hitting the floor. \n \n
+    			4.Hang from the straps so that your body forms a straight line. \n \n
+    			5.Pull yourself up until the handles reach the sides of your chest. \n \n
+    			6.Lower and repeat.
+	</string>
+	<string name="inchworm">1.Stand with legs straight and hands on the floor. \n \n
+    			2.Walk your hands out. \n \n
+    			3.Keeping legs as straight as possible, walk your feet back to your hands using short steps from your ankles.
+	</string>
+	<string name="incline_bench_press_y_raise">1.Straddle a bench set to a 45-degree incline, a light (3 to 10 pounds) dumbbell in each hand. \n \n
+    			2.Raise arms up and out to form the letter Y. Hold this position for 5 to 8 seconds.
+	</string>
+	<string name="deadlift">1.Stand with feet hip-width apart and bend your hips back. \n \n
+			2.Your grip should be just outside of your knees. \n \n
+			3.Keeping a flat black, extend your hips to stand up, and pull the bar up along your body until lock-out, as your hips drive through and your shoulders move back. \n \n
+			4.While pulling, keep your eyes on the ground a few feet in front of you. \n \n
+			5.Carefully lower the bar back to the starting position.
+	</string>
+	<string name="weighted_pullup">1.Attach a weighted belt to your waist, hold a dumbbell between your feet, or—if you can\’t complete your reps with weight—use body weight alone. \n \n
+			2.Hang from a pullup bar with your hands just outside shoulder width. \n \n
+			3.Pull yourself up until your chin is over the bar.
+	</string>
+	<string name="dumbbell_row">1.Rest your right knee and right hand on a bench and grasp a dumbbell with your left hand. \n \n
+			2.Let the weight hang straight down. \n \n
+			3.Retract your shoulder and row the dumbbell up and to your side. \n \n
+			4.Squeeze your shoulder blades at the top and hold for one second. On the final two sets, choose a heavy weight and \'cheat\' it up, performing your reps explosively and with loose form. \n \n
+			5.Switch sides with each set.
+	</string>
+	<string name="thread_the_needle">1.Start on hands and knees, knees wider than shoulder-width apart and hands in front of shoulders. \n \n
+			2.Draw right elbow up straight up towards ceiling as you inhale, then reach right arm under left elbow, stacking shoulders. \n \n
+			3.Exhale and twist deeper into the stretch. \n \n
+			4.Return to hands and knees. That\’s 1 rep. \n \n
+			5.Alternate sides; repeat.
+	</string>
+	<string name="incline_dumbbell_row">1.Set an adjustable bench to a 30- to 45-degree incline and lie on it chest-down. \n \n
+			2.Grasp a dumbbell in each hand and draw your shoulder blades back and together as you row the weights to your sides.
+	</string>
+	<string name="chinup">1.Hang from a chinup bar with hands shoulder-width apart using a supinated grip (so, palms facing you). \n \n
+			2.From the bottom of the movement, pull yourself up until your chin is over the bar.
+	</string>
+	<string name="y_w_t_holds">1.This three-position flow opens the upper back and aligns the shoulder ball and socket. \n \n
+			2.Lie on belly, limbs outstretched. \n \n
+			3.Engage core, glutes, and back to lift torso. \n \n
+			4.Press arms up into a Y shape and hold. \n \n
+			5.Bend elbows and bring toward rib cage to make a W and hold. \n \n
+			6.Reach arms out to sides to form a T and hold. \n \n
+			7.Hold each position for 20 seconds.
+	</string>
+	<string name="alternating_dumbbell_row">1.Bend forward at the hips as you do in the Romanian deadlift, and row one dumbbell to your side. \n \n
+			2.Lower it and repeat on the other side.
+	</string>
+	<string name="inverted_row_back">1.Set a barbell in a power rack (or use a Smith machine) at about hip height. (About four rungs up should work). \n \n
+			2.Lie underneath it and grab it with hands about shoulder-width apart with the bottom of your heels on floor. \n \n
+			3.Hang from the bar so your body forms a straight line. \n \n
+			4.Squeeze your shoulder blades together and pull yourself up until your back is fully contracted.
+	</string>
+	<string name="snatch_grip_rack_deadlift">1.Set up as you would to deadlift, only do so in a power rack, resting the bar on the safety rods at about two inches below your knees. \n \n
+			2.Grasp the bar wide, hands about double shoulder width. \n \n
+			3.Extend your hips and stand up, pulling the bar to in front of your thighs.
+	</string>
+	<string name="swiss_ball_leg_curl">1.Lie on your back on the floor and rest your heels on a Swiss ball. \n \n
+			2.Brace your abs, keeping your core in a plank position, and drive your heels into the ball to raise your hips off the floor. \n \n
+			3.Bend your knees and roll the ball toward you. \n \n
+			4.Keep your hips elevated the entire set.
+	</string>
+	<string name="wide_grip_pullup">1.Grab a pullup bar with an overhand grip, wider than outside shoulder width. \n \n
+			2.Hang from the bar and then pull yourself up until your chin is over it.
+	</string>
+	<string name="landmine_one_arm_row">1.Place the end of the bar into a corner. (Wrap towels around the end of the bar, or put padding the corner, to avoid damaging the wall and floor.) \n \n
+			2.Facing away from the corner, hold the barbell at the opposite end, above where you load the weights, with your right hand. \n \n
+			3.Stand so your left leg is forward. \n \n
+			4.Keeping your lower back flat, bend at the hips until your torso is slightly above parallel with  the floor. \n \n
+			5.Draw your shoulder blade back and row the bar to your ribs.
+	</string>
+	<string name="towel_cable_row">1.Hook a towel to a cable pulley and stand in front of it. \n \n
+			2.Set up to do a row, holding an end of the towel in each hand. \n \n
+			3.Squeeze your shoulder blades together and row the towel to your rib cage.
+	</string>
+	<string name="rotational_inverted_row">1.(You’ll need a suspension trainer for this exercise)Hold the handles and lean back with arms extended so that your body is supported by the suspension trainer and only your feet are on the floor. \n \n
+			2.Brace your core and hold your body in a straight line. (The lower you set the handles, the harder the exercise; you can elevate your feet to make it even harder.) \n \n
+			3.Start with your palms facing your feet, and as you row your body up, twist your wrists outward so that your palms face up in the top position.
+	</string>
+	<string name="burpee">1.Stand with feet outside shoulder-width apart. \n \n
+			2.Next, bend down into a squat position and place your hands on the floor. \n \n
+			3.Now quickly thrust your legs behind, you so you end up at the top of a pushup position. \n \n
+			4.Bring your legs back up so they land outside your hands, and then jump up quickly. That\’s one rep.
+	</string>
+	<string name="pike_up_to_superman">1.Get into pushup position with your toes on the ball. \n \n
+			2.Bend your hips and roll the ball toward you so your torso becomes vertical. \n \n
+			3.Roll back so your body is straight again and extend your spine, then roll the ball up your legs so your body forms a straight line with arms extended overhead but hands still on the floor. \n \n
+			4.You should look like Superman flying downward. That\'s one rep. \n \n
+			5.Pull with your lats to return to the pushup position and begin the next rep.
+	</string>
+	<string name="lying_lateral_raise">1.Set an adjustable bench to a 30-degree incline and lie on it chest-down with a dumbbell in each hand. \n \n
+			2.Squeeze your shoulder blades together and raise your arms out 90 degrees to your sides so your palms face down in the top position.
+	</string>
+	<string name="hang_clean">1.Start by holding the bar against your body with your hands at shoulder-width on the bar. \n \n
+			2.Keeping your back in its natural curve, bend your hips and knees (as you would in a squat), lowering the bar to just above your knees. \n \n
+			3.Explosively extend your hips as if jumping, while at the same time shrugging your shoulders and pulling the bar straight up in front of your torso. \n \n
+			4.As the bar reaches chest level, bend your elbows and flip your wrists to catch the bar at shoulder level. \n \n
+			5.In this stance, your palms should face the ceiling, and your shoulders should be pointing forward. \n \n
+			6.Make sure at this stage that your back is straight, and that the bar is at your center of gravity. \n \n
+			7.Bend your hips and knees as you catch the bar to absorb the impact.
+	</string>
+	<string name="back_extension">1.Lock your legs into a back extension bench and allow your torso to bend forward so that your hips are bent almost 90 degrees. \n \n
+			2.Extend your hips so that your body forms a straight line.
+	</string>
+	<string name="seated_cable_row">1.Attach a straight or lat-pulldown bar to the pulley of a seated row station. \n \n
+			2.Sit on the bench (or floor) with your feet against the foot plate and knees slightly bent. \n \n
+			3.Keeping your lower back flat, bend forward at the hips to grasp the bar and row it to your sternum, squeezing your shoulder blades together in the end position. \n \n
+			4.Extend your arms and feel the stretch in your back before beginning the next rep.
+	</string>
+	<string name="bentover_reverse_flies_back">1.Set up as you did for the neutral-grip row, but with lighter dumbbells. \n \n
+			2.Set a timer for three minutes. \n \n
+			3.Raise your arms out to your sides 90 degrees, squeezing your shoulder blades together at the top for a second. \n \n
+			4.Complete your set and then rest until the end of three minutes, when your timer goes off.
+	</string>
+	<string name="aquaman">1.Set up as you did for the back extension and then raise your left arm and right leg off the floor. \n \n
+			2.Hold at the top for a second with both limbs straight and then lower back down. \n \n
+			3.Repeat with your right arm and left leg. That\’s one rep.
+	</string>
+	<string name="superman">1.Raise your hands and legs off the floor (and hold them straight) so that only your hips remain in contact with it.\n \n
+			2.Contract your back as if you were trying to touch your heels and elbows to the ceiling.
+	</string>
+	<string name="suspension_trainer_chinup">1.Attach a suspension trainer to a sturdy object overhead. \n \n
+			2.Set the handles less than shoulder-width apart and high enough so that when you hang from them your feet will be off the floor. \n \n
+			3.Grasp the handles, with palms facing you, and hang. \n \n
+			4.Now pull yourself up until your chin is over your hands. \n \n
+			5.Begin to lower yourself, moving your elbows away from your body and rotating your palms to face forward. \n \n
+			6.Do it slowly (it should take three to five seconds to come back down). That\’s one rep.
+	</string>
+	<string name="barbell_back_squat">1.Set up in a squat rack or cage. \n \n
+			2.Grab the bar slightly wider than shoulder-width, basically wide and comfortable. \n \n
+			3.Retract your shoulder blades and unrack the bar. \n \n
+			4.Take one step back with each foot and point toes out at 30 degrees. \n \n
+			5.Inhale, then bend your hips and knees to lower your body as far as you can without losing the arch in your lower back. \n \n
+			6.Push your knees outward as you descend. Drive.
+	</string>
+	<string name="suspension_trainer_inverted_row">1.Lengthen the straps and hold the handles. \n \n
+			2.Lean back with arms extended so that your body is supported by the trainer and only your feet are on the floor. \n \n
+			3.Brace your core and hold your body in a straight line. (The lower you set the handles, the harder the exercise; you can elevate your feet on something to make it even harder.) \n \n
+			4.With palms facing your feet, row your body up. Perform 75 total reps, resting as needed. \n \n
+			5.Go one rep shy of failure each set.
+	</string>
+	<string name="swiss_ball_reverse_back_extension">1.Lie facedown on the ball and walk your body forward so it supports your hips only, hands on the floor. \n \n
+			2.Squeeze your glutes and raise your legs behind you until they\’re level with your torso.
+	</string>
+	<string name="yates_row">1.Hold the bar with an underhand grip at shoulder-width. \n \n
+			2.Keeping your lower back in its natural arch, bend your hips back and lower your torso to about 60 degrees. \n \n
+			3.Row the weight to your belly button using a slight cheat (use momentum to begin each rep), but don\’t let your lower back round. \n \n
+			4.If you have wrist straps, you may use them to help your grip.
+	</string>
+	<string name="bentover_row_to_neck">1.Grasp the bar overhand and bend forward so torso is parallel to the floor. \n \n
+			2.Squeeze your shoulder blades together and row the weight to your neck. \n \n
+			3.This is different than a barbell row to your chest, so be sure to use less weight than you would for a barbell row.
+	</string>
+	<string name="cat_cow_back">1.Start on all fours with hands beneath shoulders and knees on the ground. \n \n
+			2.Inhale, dropping your chest as you push your hips and shoulder blades back into cow position. \n \n
+			3.Lift your chin and chest and gaze forward. \n \n
+			4.Exhale as you draw your belly button to your spine and round your back toward the ceiling to transition to cat.
+	</string>
+	<string name="sled_pull">1.Facing the sled, pull the straps taut with straight arms. \n \n
+			2.Slightly bend your knees as you pull the straps in a row movement toward you.
+	</string>
+	<string name="dumbbell_romanian_deadlift">1.Grasp two dumbbells and hold them with feet set hip-width apart. \n \n
+			2.Keeping your lower back in its natural arch, bend hips back, your torso forward, and lower yourself until you feel a stretch in your hamstrings. \n \n
+			3.You may bend at the knees. Squeeze your glutes at the top of the movement after coming back up.
+	</string>
+	<string name="lat_pulldown">1.Sit at a lat pulldown station or cable machine fixed with a straight bar. \n \n
+			2.Grab the bar with an overhand grip a little wider than shoulder-width apart. \n \n
+			3.Begin in a stretched position with arms extended straight. \n \n
+			4.To begin the movement, draw shoulder blades down and back, then pull your elbows toward your sides as you bring the bar to the top of your chest. \n \n
+			5.Pause briefly, then reverse the motion to return the bar. Move slow and controlled without using momentum.
+	</string>
+	<string name="one_arm_one_leg_plank">1.This challenges you to keep your back flat and stabilized. \n \n
+			2.From a pushup position with forearms on the ground, push up off your elbows supporting your weight on your elbows. \n \n
+			3.Tuck your chin so that your head is in line with your body. \n \n
+			4.Lift one arm and opposite leg, hold for two seconds. \n \n
+			5.Switch limbs.
+	</string>
+	<string name="kettlebell_swing">1.Stand holding a kettlebell with both hands in front of you with straight arms. \n \n
+			2.Squat as you lower the kettlebell under and between your legs. \n \n
+			3.Drive your hips and swing the kettlebell up until your arms are parallel to the floor.
+	</string>
+	<string name="one_leg_romanian_deadlift">1.Stand on one foot with your knee slightly bent, holding dumbbells in each hand. \n \n
+			2.Bend forward from the hips, lowering the weights as your non-supporting leg lifts behind you. \n \n
+			3.Return to the standing position. \n \n
+			4.Complete reps on one side, then repeat with opposite leg.
+	</string>
+	<string name="med_ball_slam">1.Stand holding a medicine ball with two hands over your head, feet shoulder-width apart and knees slightly bent. \n \n
+			2.Slam the ball to the floor and repeat. \n \n
+			3.This improves the flexibility of your spine.
+	</string>
+	<string name="medicine_ball_rotational_throw">1.Stand facing a concrete wall with feet shoulder-width apart, holding a medicine ball with both hands. \n \n
+			2.Rotate your shoulders, hips, and torso away from the wall, taking the ball behind your hip. \n \n
+			3.Turn your hip back to the wall and rotate the rest of your body, throwing the ball to the wall. \n \n
+			4.Complete reps on each side, then switch sides. \n \n
+			5.This rotational movement provides many benefits, including adding strength and flexibility to the back.
+	</string>
+	<string name="renegade_row_back">1.Start in the top position of a pushup with your hands on dumbbells, shoulder-width apart. \n \n
+			2.Row one dumbbell toward the side of your body while balancing on the opposite hand and feet. \n \n
+			3.Pause for one second at the top, then return the weight slowly to the start position. \n \n
+			4.Repeat on the other side.
+	</string>
+	<string name="seated_rope_pull">1.Knot one end of a 30-foot battle rope to the front of a sled or to a kettlebell, or thread it through weight plates and knot the end. \n \n
+			2.Stretch the rope across the floor and sit at the unweighted end. \n \n
+			3.Straddle the rope, knees soft, glutes and abs engaged, back hinged slightly, chest up, heels anchored into the floor. \n \n
+			4.Pull rope hand over hand until the weight reaches your feet. \n \n
+			5.Reset at the far end of the room.
+	</string>
+	<string name="farmers_carry">1.Stand between a pair of dumbbells or kettlebells as if they were suitcases. \n \n
+			2.Squat at the hips—no bending at the back—and lift the weights. \n \n
+			3.Start by walking a short distance—perhaps once or twice around the room—gradually working your way to longer distances or heavier weights.
+	</string>
+	<string name="kettlebell_windmill">1.Stand with feet hip-width apart, toes pointed 45 degrees to the left, kettlebell in right hand. \n \n
+			2.Press the kettlebell overhead, resting it on your forearm, biceps by ear (A). \n \n
+			3.Keeping kettlebell overhead and spine straight, hinge into left hip and reach left arm along inside of left leg until fingertips touch foot (B). \n \n
+			4.Squeeze core and glutes to return to start. That\’s 1 rep. Switch sides; repeat.
+	</string>
+	<string name="pallof_press_iso_hold">1.Attach a single-grip handle to a cable pulley and set it at about shoulder height. (You can also use a band.) \n \n
+			2.Grasp the handle with one hand over the other and step away from the machine to put tension on the cable; turn to your left 90 degrees so your right side faces the machine. \n \n
+			3.Stand with feet shoulder-width apart and extend your arms in front of you. \n \n
+			4.The cable will try to twist your body toward it—resist.
+	</string>
+	<string name="upright_row_back">1.This compound movement strengthens and stabilizes the upper back and shoulders while also challenging the triceps. \n \n
+			2.Stand with feet hip-width apart, holding dumbbells or a barbell in front of your body, using an overhand grip. \n \n
+			3.While keeping the shoulder blades back and chest \'proud\', raise weight vertically, lifting elbows to the ceiling.
+	</string>
+	<string name="t_spine_rotation">1.Start on hands and knees, right hand cupping right ear. \n \n
+			2.Rotate torso so right elbow reaches toward left hand, then reverse until elbow points toward ceiling. \n \n
+			3.Do this for 2 minutes, switching sides halfway through.
+	</string>
+	<string name="trap_bar_deadlift">1.Use a trap bar and stand with feet at hip-width apart. \n \n
+			2.Bend your hips back and grasp the handles. \n \n
+			3.Keeping your lower back in its natural arch, drive through your heels to stand up straight and extend your hips and knees.
+	</string>
+	<string name="reverse_cable_flies">1.Stand facing a cable pulley machine set high, so handles are at eye level. \n \n
+			2.Set to medium resistance (around 50 to 80 pounds). \n \n
+			3.Grab right handle in left hand and left handle in right, slight bend in arms, and start with knuckles close to each other. \n \n
+			4.Fly arms to the sides, until fists are in line with chest. \n \n
+			5.Hold for 3 seconds and reverse to start for 1 rep.
+	</string>
+	<string name="bird_dog_heavy_row">1.Pick a weight that\’s 70 to 80 percent of your typical dumbbell row. \n \n
+			2.Get in bird-dog position, the weight resting on the bench below chest. \n \n
+			3.Tuck chin, keep back flat, engage core, squeeze glutes, then slowly draw elbow up along rib cage.
+	</string>
+	<string name="back_extension_cobra">1.Lie facedown on the floor with hands by your sides.
+			2.Raise your torso off the floor as high as you can and hold for a second at the top.
+			3.If you have a back extension bench, perform back extensions instead.
+	</string>
+	<string name="fat_grip_hammer_curl">1.Select two dumbbells, and wrap towels around each handle to thicken it. \n \n
+			2.Another option is to use rubber-grip sleeves like Fat Gripz or Grip4orce. \n \n
+			3.Keeping your upper arms stationary at your sides and your palms facing up, curl the weights.
+	</string>
+	<string name="behind_the_back_cable_curl">1.Attach a D-handle to the low pulley of a cable machine, grasp the handle in your left hand, and step forward (away from the machine) until there\’s tension on the cable and your arm is drawn slightly behind your body. \n \n
+			2.Stagger your feet so your right leg is in front. \n \n
+			3.Curl the handle but don\’t allow your elbow to point forward. \n \n
+			4.Alternate sides.
+	</string>
+	<string name="ez_bar_preacher_curl">1.Sit at a preacher bench, and adjust the bench height so your armpits touch the top of the bench. \n \n
+			2.Grasp an EZ-curl bar overhand at shoulder-width. \n \n
+			3.Curl it up, keeping the backs of your arms against the bench. \n \n
+			4.Take three seconds to lower the bar back down, flexing your triceps as you do it (as if you were performing a cable pushdown).
+	</string>
+	<string name="reverse_curl_barbell">1.Grasp the bar overhand (aka prone grip) at whatever width is comfortable. \n \n
+			2.Keeping your upper arms against your sides, curl the bar.
+	</string>
+	<string name="wide_grip_curl">1.Grasp the bar with hands wider than shoulder-width—if you\’re using an Olympic bar, your pinkies should be on the outside knurling. \n \n
+			2.Perform curls.
+	</string>
+	<string name="close_grip_curl">Curl with your hands inside shoulder-width, in the middle of the bar.
+	</string>
+	<string name="conventional_barbell_curl">1.You\’ve certainly done this exercise before, but there are plenty of ways to shake up the set/rep scheme. \n \n
+			2.Try this: Place three 5-lb plates on each side of the bar, hands at shoulder-width, and perform 20 reps. That\'s one set. \n \n
+			3.Then take off one plate from each side. \n \n
+			4.Perform 30 reps. \n \n
+			5.Unload another plate from each side and do 40 reps. \n \n
+			6.Finally, remove the last set of plates, and do 50 reps with just the empty bar.
+	</string>
+	<string name="dumbbell_curl">1.Stand holding a dumbbell in each hand with palms facing your sides. \n \n
+			2.Keep your weight on your heels and lean forward slightly. \n \n
+			3.Without letting your upper arms drift forward, curl the weights, rotating your wrists outward so that your palms face you in the top position. \n \n
+			4.Hold the top for a moment and squeeze your biceps. \n \n
+			5.Lower the weights back down and flex your triceps hard in the bottom position (your arms should end up slightly behind your body).
+	</string>
+	<string name="drag_curl">1.Perform as you would a conventional dumbbell curl, but stand tall and drive your elbows back as you curl so the head of each dumbbell touches the front of your body throughout the rep. (Keep your palms facing up the whole time.) \n \n
+			2.It should look as though you\’re dragging the weights up along your torso.
+	</string>
+	<string name="hammer_curl">Perform as you did the conventional dumbbell curl but keep your palms facing your sides throughout (aka neutral grip).
+	</string>
+	<string name="cheat_curl">1.Choose the heaviest dumbbells you think you can curl, and perform as you did the conventional dumbbell curl, but use momentum from your hips to power through the sticking point (halfway up, when the weights are most difficult to lift). \n \n
+			2.Do not lean back as you lift, but get into a rhythm where you rock your torso forward and then extend your hips to complete each rep. \n \n
+			3.Stop each set one rep shy of total failure.
+	</string>
+	<string name="band_curl">1.Anchor a band under your feet, holding each end with both hands at your sides. \n \n
+			2.Resist your elbows moving forward as you perform curls as fast as you can. \n \n
+			3.Keep your body still.
+	</string>
+	<string name="side_curl">1.Attach two bands that face each other to sturdy objects at shoulder-height. Stand between them, and hold an end in each hand. \n \n
+			2.Raise your arms out 90° with elbows extended—you should still feel some tension on the band in this starting position. \n \n
+			3.Curl the bands toward your ears, and hold the contracted position for two seconds. \n \n
+			4.You can also do this exercise with cables.
+	</string>
+	<string name="reverse_curl">1.Attach a band to a sturdy object in front of you, and stand facing it. \n \n
+			2.Hold the band in one hand and walk backward, allowing the band to pull your arm up until it\’s parallel to the floor. \n \n
+			3.Curl the band quickly—your forearm should end up at 90° or greater to the floor. \n \n
+			4.Hold the contracted position for two seconds.
+	</string>
+	<string name="suspension_trainer_biceps_curl">1.Face the suspension trainer\’s attachment point and grasp the handles with palms facing up. \n \n
+			2.Lean back with your abs braced, body straight, and arms extended in front of you. \n \n
+			3.Curl your body up to the handles. \n \n
+			4.Keep your hips straight—don\’t bend or twist. \n \n
+			5.If you need to make this exercise easier, move your feet toward you so you\’re in more of an upright position; if you want to make it more difficult, step out your feet slightly farther in front of you.
+	</string>
+	<string name="behind_the_back_cable_curl_forearms">1.Attach a D-handle to the low pulley of a cable machine. \n \n
+    			2.Grasp the handle in your left hand, and step forward (away from the machine) until there is tension on the cable and your arm is drawn slightly behind your body. \n \n
+    			3.Stagger your feet so your right leg is in front. \n \n
+    			4.Curl the handle but do not allow your elbow to point forward.
+	</string>
+	<string name="ez_bar_preacher_curl_forearms">1.Sit at a preacher bench and adjust the height so that your armpits touch the top of the bench. \n \n
+    			2.Grasp an EZ-curl bar at shoulder width with arms extended (but allow a slight bend at the elbows). \n \n
+    			3.Curl the bar, keeping the backs of your arms against the bench. \n \n
+    			4.Take three seconds to lower the bar back down.
+	</string>
+	<string name="reverse_curl_forearms">1.Grasp the bar overhand at whatever width is comfortable. \n \n
+    			2.Keeping your upper arms against your sides, curl the bar.
+	</string>
+	<string name="wide_grip_curl_forearms">1.Grasp the bar with hands wider than shoulder width—if you\’re using an Olympic bar, your pinkies should be on the outside knurling.
+    			2.Perform curls.
+	</string>
+	<string name="towel_cable_row_forearms">1.Hook a towel to a cable pulley and stand in front of it. \n \n
+    			2.Set up to do a row, holding an end of the towel in each hand. \n \n
+    			3.Squeeze your shoulder blades together and row the towel to your rib cage.
+	</string>
+	<string name="towel_pullup">1.Hang a towel over a pullup bar and grasp an end in each hand. \n \n
+    			2.Hang from the towel and then pull yourself up until your chin is above your hands. \n \n
+    			3.If that\’s too difficult, simply hang from the towel for as long as you can.
+	</string>
+	<string name="towel_row_to_chest">1.Loop a towel around the bar of a lat-pulldown machine and hold an end of the towel in each hand. Your arms should be extended and at eye level. \n \n
+    			2.Brace one foot on the seat of the machine and pull the bar to your chest as in a normal row.
+	</string>
+	<string name="towel_kettlebell_curl">1.Run the towel through the handle of a kettlebell, or wrap two towels around a pair of dumbbells as shown, and fold it in half. \n \n
+    			2.Hold both ends in one hand (for kettlebell), or both ends in each hand (dumbbells) and curl, keeping your upper arm stationary.
+	</string>
+	<string name="farmers_walk_forearms">1.Pick up the heaviest dumbbells you can handle and walk with your chest out, standing tall with arms at your sides. \n \n
+    			2.Go 40–50 yards—you can walk in a figure-eight pattern if you don\’t have the space. \n \n
+    			3.At the end of the distance, stop and continue to hold the weights for as long as possible.
+	</string>
+	<string name="hammer_cheat_curl">1.Grasp a dumbbell in each hand and cheat the weights, as if doing a clean, to the top position of a curl. \n \n
+    			2.Use momentum from your hips to get the weights up. \n \n
+    			3.Slowly lower the weights back down for five counts.
+	</string>
+	<string name="wrist_curl">1.Hold a dumbbell in each hand and sit on a bench, box, or chair. \n \n
+    			2.Rest your forearms on your thighs and allow your wrists to bend back over your knees so the weights hang down. \n \n
+    			3.Curl the dumbbells up by just flexing your wrists.
+	</string>
+	<string name="reverse_wrist_curl">1.Perform the opposite motion of the wrist curl. \n \n
+    			2.Palms face down and extend your wrists to raise the back of your hands closer to your forearms.
+	</string>
+	<string name="grip_crush">1.Sit on a bench, box, or chair with a dumbbell in your left. \n \n
+    			2.Extend your arm toward the floor and brace the back of it against the inside of your left thigh. \n \n
+    			3.Allow your hand to open and the dumbbell to roll to your fingertips. \n \n
+    			4.Now close your hand and perform a wrist curl, squeezing the weight as hard as possible. \n \n
+    			5.Choose a weight you could perform 8–12 normal biceps curls with.
+	</string>
+	<string name="towel_curl">1.Loop a thick towel around the bar so that it doesn\’t let your hands close all the way when you grasp it. \n \n
+    			2.Hold the bar with an overhand, shoulder-width grip, in front of your thighs. \n \n
+    			3.Without allowing your upper arms to move forward, curl the bar. \n \n
+    			4.Add weight each set so you must reduce your reps.
+	</string>
+	<string name="reverse_curl_21">1.Curl the bar halfway up and hold for one second. \n \n
+    			2.Lower it back and repeat for six more reps. \n \n
+    			3.Then curl the bar to the mid point and, beginning there, curl it all the way up for seven reps, using the mid point as the \'bottom\' of each rep. \n \n
+    			4.Finally, perform seven full-range reps.
+	</string>
+	<string name="zottman_curl">1.Stand holding a dumbbell in each hand with palms facing your sides. \n \n
+    			2.Keeping your upper arms in place, curl the weights, rotating your palms to face your biceps in the top position. \n \n
+    			3.Turn your palms to face down, and then lower the weights slowly, as in a reverse curl. That\’s one rep.
+	</string>
+	<string name="drag_curl_forearms">1.Perform as you would the conventional dumbbell curl, but stand tall. \n \n
+    			2.Drive your elbows back as you curl so the head of each dumbbell touches the front of your body throughout the rep. \n \n
+    			3.Keep your palms facing up the whole time. It should look as though you\’re dragging the weights up along your torso.
+	</string>
+	<string name="chinup_forearms">1.Grasp the bar with hands shoulder width and turn your palms to face you. \n \n
+    			2.Pull yourself up until your chin is over the bar. \n \n
+    			3.Complete your reps and then come down off the bar.
+	</string>
+	<string name="parallel_bar_hand_walk">1.Hang from a jungle gym or length of parallel bars. \n \n
+    			2.Walk to the end of the row and back with your hands.
+	</string>
+	<string name="crab_walk">1.Sit on the ground and bridge up with your hips so you look like a tabletop. \n \n
+    			2.Walk forward on your hands and feet as fast as you can.
+	</string>
+	<string name="bar_hang">1.Place your hands shoulder-width apart on a pullup bar, using an overhand grip. \n \n
+   			2.Focus on squeezing the bar as hard as possible as you retract your shoulder blades down your back, then hang from the bar. \n \n
+    			3.Work up to 2 minutes, then progress by changing up your grip (neutral, facing you, false with thumbs on top of the bar, etc.). \n \n
+    			4.You can also do 30- to 60-second one-arm hangs for an added challenge to really exhaust your forearms.
+	</string>
+	<string name="wrist_roller">1.Grasp a wrist roller with both hands and extend arms straight out in front of you. \n \n
+    			2.Fix a 2- to 5-lb weight plate (or kettlebell) to the bottom of the cable. \n \n
+    			3.With palms facing down, turn your wrists toward your body and roll the apparatus between your hands to inch the weight up until the cable is wrapped around the wrist roller. \n \n
+    			4.Then, slowly lower the plate down by reversing the motion. \n \n
+    			5.Make sure to keep your arms straight throughout the exercise.
+	</string>
+	<string name="rope_climbs">1.Make sure the rope is securely fixed to the ceiling, then reach up and grab it tight between your hands. \n \n
+    			2.Pull your bodyweight up as you use your legs to lock the rope between your feet. \n \n
+    			3.Repeat the motion, keeping the rope between your feet at all times, then reverse it to lower back down. \n \n
+    			4.Since this will tax your forearms (as well as core, back, and upper arms), rest for 3 full minutes in between climbs.
+	</string>
+	<string name="one_arm_bottoms_up_kettlebell_press">1.Stand with feet shoulder-width apart, holding the handle of a light kettlebell in one hand at your shoulder so the bell is pointing up toward the ceiling. \n \n
+    			2.Keep your wrist rigid and straight, and engage your core as you press the kettlebell overhead, extending your elbow. \n \n
+    			3.Keep your grip on the handle tight and try to prevent the weight from wobbling. \n \n
+    			4.Bend your elbow and lower the kettlebell to return to start position.
+	</string>
+	<string name="plate_pinch_hold">1.Hold heavy weight plates in either hand (you can also stack a few 10-pound plates together, smooth side out). \n \n
+    			2.Squeeze them between your thumb and fingers as hard as possible, then let your arms hang at your sides. \n \n
+    			3.Hold for as long as you can, resting for 60 sec between reps. \n \n
+    			4.You can also do plate pinch rows and carries to exhaust your forearms.
+	</string>
+	<string name="front_squat">1.Set a barbell on a power rack at about shoulder height. \n \n
+    			2.Grab the power with an overhand grip at shoulder width and raise your elbows until your upper arms are parallel to the floor. \n \n
+    			3.Take the bar out of the rack and let it rest on your fingertips. \n \n
+    			4.Your elbows should be all the way up throughout the movement. \n \n
+    			5.Step back and set your feet at shoulder width with toes turned out slightly. \n \n
+    			6.Squat as low as you can without losing the arch in your lower back.
+	</string>
+	<string name="bulgarian_split_squat">1.Stand lunge-length in front of a bench. \n \n
+    			2.Hold a dumbbell in each hand and rest the top of your left foot on the bench behind you. \n \n
+    			3.Lower your body until your rear knee nearly touches the floor and your front thigh is parallel to the floor. Single-leg training can yield serious strength gains.
+	</string>
+	<string name="romanian_deadlift">1.A killer deadlift variation, hold a barbell with a shoulder-width grip and stand with feet hip-width apart. \n \n
+    			2.Bend your hips back as far as you can. \n \n
+   	 		3.Allow your knees to bend as needed while you lower the bar along your shins until you feel a stretch in your hamstrings. \n \n
+    			4.Keep your lower back in its natural arched position throughout.
+	</string>
+	<string name="barbell_squat">1.In a squat rack or cage, grasp the bar as far apart as is comfortable and step under it. \n \n
+    			2.Place it on your lower traps, squeeze your shoulder blades together, push your elbows up and nudge the bar out of the rack. \n \n
+    			3.Take a step or two back and stand with your feet at shoulder width and your toes turned slightly out. \n \n
+    			4.Take a deep breath and bend your hips back, then bend your knees to lower your body as far as you can without losing the arch in your lower back. \n \n
+    			5.Push your knees out as you descend. \n \n
+    			6.Drive vertically with your hips to come back up, continuing to push your knees out.
+	</string>
+	<string name="dumbbell_stepup">1.Stand behind a bench or another elevated surface that will put your thigh parallel to the floor when you step your foot onto it. \n \n
+    			2.Hold a dumbbell in each hand and step onto the bench, but leave your trailing leg hanging off.
+	</string>
+	<string name="deadlift_legs">1.Stand straight up with feet hip-width apart and shins one inch away from the bar. \n \n
+    			2.Grip the bar with a double pronated or reverse grip, bend knees and push them into your straight arms. \n \n
+    			3.Bring your chest up as much as possible and look straight ahead. Keeping your back flat, extend your hips to stand up, pulling the bar up along your legs to lockout.
+	</string>
+	<string name="swiss_ball_leg_curl_legs">1.Brace your abs with heels on a stability ball. \n \n
+			2.Raise your hips into the air, but keep your knees straight. \n \n
+			3.From there, bend your knees and roll the ball back toward you. \n \n
+			4.Keep your hips elevated throughout the set.
+	</string>
+	<string name="single_leg_romanian_deadlift">1.Hold a dumbbell in one hand and stand on the opposite leg. \n \n
+    			2.Bend your hips back and lower your torso until you feel your lower back is about to lose its arch. \n \n
+    			3.Squeeze your glutes and extend your hips to come up.
+	</string>
+	<string name="leg_press">1.Adjust the seat of the machine so that you can sit comfortably with your hips beneath your knees and your knees in line with your feet. \n \n
+    			2.Remove the safeties and lower your knees toward your chest until they\’re bent 90 degrees and then press back up. \n \n
+    			3.Be careful not to go too low or you risk your lower back coming off the seat (which can cause injury).
+	</string>
+	<string name="bodyweight_calf_raise">1.Stand with your toes on the block and hold onto something sturdy for support. \n \n
+    			2.Raise your heels to come up on the balls of your feet, and then lower your heels until you feel a stretch in your calves. \n \n
+    			3.This is just one way to get stronger, bigger calves.
+	</string>
+	<string name="walking_lunge">1.Stand with your feet hip width, holding a dumbbell in each hand. \n \n
+    			2.Step forward with one leg and lower your body until your rear knee nearly touches the floor and your front thigh is parallel to the floor. \n \n
+    			3.Step forward with your rear leg to perform the next rep.
+	</string>
+	<string name="pause_squat">1.Set up in a squat rack or cage. \n \n
+        		2.Grasp the bar as far apart as is comfortable and step under it. \n \n
+        		3.Squeeze your shoulder blades together and nudge the bar out of the rack. \n \n
+        		4.Step back and stand with your feet at shoulder width and your toes turned out slightly. \n \n
+        		5.Take a deep breath and tuck your hips back, then bend your knees to lower your body as far as you can without losing the arch in your lower back. \n \n
+        		6.Push your knees out as you descend. \n \n
+        		7.Hold the bottom position for two seconds.
+	</string>
+	<string name="reverse_lunge">1.Stand with the dumbbells still in your hands and step back with your right foot. \n \n
+    			2.Lower your body until your front thigh is parallel to the floor and your rear knee nearly touches the floor. \n \n
+    			3.Keep your torso upright. \n \n
+    			4.Step forward to return to the starting position. \n \n
+    			5.Complete all reps on one leg, then switch legs. That\’s one set.
+	</string>
+	<string name="dumbbell_squat">1.Hold the weights at shoulder level and stand with feet shoulder-width apart and toes turned slightly out. \n \n
+    			2.Squat down as low as you can without losing the arch in your lower back.
+	</string>
+	<string name="kettlebell_swing_legs">1.Stand with feet hip-width apart and the kettlebell on the floor. \n \n
+    			2.Grasp the weight with both hands (palms facing you) and, keeping your lower back flat, extend your hips to raise it off the floor. \n \n
+    			3.From there, take a deep breath and bend your hips back, allowing the weight to swing back between your legs. \n \n
+    			4.Explosively extend your hips and exhale—allowing the momentum to swing the weight up to shoulder level. \n \n
+    			5.Control the descent, but use the momentum to begin the next rep.
+	</string>
+	<string name="jump_squat">1.Stand with feet shoulder-width apart and squat down until your thighs are about parallel to the floor but no deeper. \n \n
+    			2.Jump as high as you can. \n \n
+    			3.Land with soft knees and begin the next rep.
+	</string>
+	<string name="barbell_calf_raise">1.Place a block, step, or weight plate on the floor. \n \n
+    			2.Grasp a barbell and hold it on the backs of your shoulders, as in a squat. \n \n
+    			3.Place your toes on the block so your calves are stretched, but make sure you can maintain balance. \n \n
+    			4.Raise your heels to come up onto the balls of your feet.
+	</string>
+	<string name="kneeling_hip_flexor_stretch">1.Kneel down in a lunge position with your right leg in front, and rest your back knee on a towel or mat, if available. \n \n
+    			2.Extend your left hand above your head and let your right hand hang at your side. \n \n
+    			3.Contract your left glute and push your hips forward until you feel a stretch in the front of your hip. \n \n
+    			4.Hold for 30 seconds.
+	</string>
+	<string name="skater_squat">1.Stand on your right leg and pick your left one up off the floor. \n \n
+    			2.Raise both arms in front of you to act as a counterbalance. \n \n
+    			3.If you have light weights or something similar to help you keep your balance, use it. \n \n
+    			4.Bend your hips and knees and lower your body as low as you can. \n \n
+    			5.Come back up.
+	</string>
+	<string name="jumping_calf_raise">1.Stand tall with feet flat on the floor and jump using only your calves. \n \n
+    			2.Land softly, absorbing the force by dropping into a half squat; also, try to land quietly.
+	</string>
+	<string name="barbell_hip_thrust">1.Rest your upper back on a bench and sit on the floor with legs extended. \n \n
+    			2.Roll a loaded barbell up your thighs until the bar sits on your lap (you may want to place a towel or mat on your hips or attach a pad to the bar for comfort). \n \n
+    			3.Brace your abs and drive your heels into the floor to extend your hips, raising them until your thighs and upper body are parallel to the floor.
+	</string>
+	<string name="glute_bridge_walkout">1.Lie on your back on the floor and bend your knees so your feet rest on the floor close to your butt. \n \n
+    			2.Brace your abs and drive your heels into the floor to raise your hips into the air. \n \n
+    			3.From there, walk your feet out in a V shape, taking small steps with your heels forward and away from the midline of your body. \n \n
+    			4.Keep your hips up. \n \n
+    			5.Continue until your legs are extended and then walk them back in. That\’s one rep.
+	</string>
+	<string name="single_leg_glute_bridge">1.Lie on your back on the floor and bend both knees so that your feet rest on the floor close to your butt. \n \n
+    			2.Brace your abs and raise one leg up and bring the knee toward your chest. \n \n
+    			3.Drive the heel of the other foot into the floor. \n \n
+    			4.Bridge up until your body is in a straight line.
+	</string>
+	<string name="seated_calf_raise">1.Use a seated calf raise machine, or sit on a bench and rest the balls of your feet on a block or step (and hold dumbbells on your thighs for resistance). \n \n
+    			2.Perform a calf raise as described at left, but with hips and knees bent 90 degrees.
+	</string>
+	<string name="swiss_ball_wall_squat">1.Place the ball against a wall and stand with your back against it, holding it in place. \n \n
+    			2.Place your feet shoulder-width apart and turn your toes out about 15 degrees. \n \n
+    			3.Squat down as low as you can, rolling the ball down the wall as you descend.
+	</string>
+	<string name="reverse_table_up">1.Sit on the floor and place your hands on the floor under your shoulders, fingers pointing in front of you. \n \n
+    			2.Place your feet shoulder width and squeeze your glutes. \n \n
+    			3.Push through your heels as you bridge your hips up. \n \n
+    			4.Your body should form a table, with your torso and hips parallel to the floor. \n \n
+    			5.Hold for two seconds.
+	</string>
+	<string name="kettlebell_pressout">1.Hold the weight close to your chest at shoulder level with both hands on the handle and palms facing each other. \n \n
+    			2.Squat down as deeply as you can, then press the bell straight out in front of you with arms extended. \n \n
+    			3.Bring it back to your chest and repeat for reps while maintaining the squat position.
+	</string>
+	<string name="suspension_trainer_leg_curl">1.Rest both feet in the foot cradles of a suspension trainer with legs straight. \n \n
+    			2.Bridge your hips up so your body forms a straight line, then bend your knees, curling your heels toward your butt. \n \n
+    			3.The closer you place your hands to your sides, the more support you\’ll get.
+	</string>
+	<string name="overhead_lunge">1.Hold the bar overhead and step forward with your left leg. \n \n
+        		2.Lower yourself until your left thigh is parallel to the floor and your rear knee nearly touches the floor.
+	</string>
+	<string name="standing_calf_raise">1.Use a standing calf raise machine, or stand on a block or step with a dumbbell in one hand while holding on to something for support with the other. \n \n
+    			2.Lower your heels toward the floor until you feel a stretch in your calves. \n \n
+    			3.Drive the balls of your feet into the foot plate and contract your calves, raising your heels as high as possible. \n \n
+    			4.Control the descent on each rep.
+	</string>
+	<string name="sumo_squat_to_stand">1.Bend at the waist, grabbing underneath your big toes (or touch palms to floor). \n \n
+    			2.Keep your arms straight inside your knees, pull  hips down until they\’re between your ankles, and lift your chest. \n \n
+    			3.Tuck your chin and try to straighten your legs, holding on to your toes as you straighten the hips and knees. \n \n
+    			4.This improves flexibility in your hamstrings and is a good indicator of how much room you have to improve.
+	</string>
+	<string name="goblet_squat">1.Hold a dumbbell or kettlebell with two hands against your chest. \n \n
+    			2.Squat by sitting hips back and down, keeping your weight in your heels, without lifting the toes. \n \n
+    			3.Maintain contact between the kettlebell and your chest. \n \n
+    			4.Your elbows should touch your knees at the bottom of the movement. \n \n
+    			5.Rise and extend powerfully through your hips to stand.
+	</string>
+	<string name="lateral_bound">1.Stand on your right leg, with your left foot off the ground. \n \n
+    			2.Squat slightly on your right leg and use your leg and glute to jump laterally (to the left). \n \n
+    			3.Land on the opposite leg, maintaining balance. \n \n
+    			4.Hold for three seconds. \n \n
+    			5.Repeat on the other side.
+	</string>
+	<string name="mini_band_monster_walk">1.Start in a squat position with back flat, hips back, and a miniband around your ankles. \n \n
+    			2.Taking small steps, walk forward, keeping feet in line with hips.
+	</string>
+	<string name="weighted_wall_sit">1.Press back against a wall, then scooch down until knees are at a 90-degree angle and thighs are parallel to floor. \n \n
+    			2.Hold plate in front of chest (as shown), or extend arms straight out for added shoulder work. \n \n
+    			3.Hold for at least 30 seconds.
+	</string>
+	<string name="pistol_squat">1.As a progression to the pistol squat, stand parallel to a ledge with one foot hanging off. \n \n
+    			2.Extend arms and the free leg out in front of you. \n \n
+    			3.Bend your working knee, hinging at hips, to lower into a squat. \n \n
+    			4.Keeping your back straight and torso upright, as you try to touch your working hamstring to the calf. \n \n
+    			5.Squeeze glutes and drive through heels to stand. Repeat on the other side. When you progress, stand on a flat surface and repeat the above steps.
+	</string>
+	<string name="single_leg_clock_squat">1.Stand on one leg, holding one end of a dumbbell with both hands. \n \n
+    			2.Bend back at the hips and then bend your knee and, keeping your chest up, lower your body while reaching slightly to your left side. \n \n
+    			3.Imagine a clock face on the floor and touch the end of the dumbbell at 11 o\’clock. \n \n
+    			4.Stand back up and squat down again and touch 12 o\’clock. Repeat, and reach to the right to touch 1 o\’clock. Each touch is one rep. Repeat on the other leg.
+	</string>
+	<string name="single_leg_broad_jump">1.Stand on one leg and squat halfway down. \n \n
+    			2.Place the toe of the opposite foot on the grass behind you for balance. \n \n
+    			3.Explode off the working leg, jumping up and forward, and land on the same leg. \n \n
+    			4.Hold the landing for three seconds and begin your next jump. Be conservative with your distance and height, since the impact will be hard.
+	</string>
+	<string name="split_stance_box_jump">1.Set up 2 boxes, a 20­inch and a 12­inch, 2 feet apart. \n \n
+    			2.Stand between them. Squat, then explode up, landing on the boxes in a split position, one foot on each box. \n \n
+    			3.Most of your weight is in the front foot, on the high box, while the back foot acts to balance you.
+	</string>
+	<string name="one_eighty_squat_jump">1.Squat and jump 180 degrees counter-clockwise. \n \n
+    			2.Imagine  there\’s a mirror behind you and you want to face the mirror. \n \n
+    			3.Now squat while facing the mirror and jump back the way you came. \n \n
+    			4.Squat again; this time clockwise. \n \n
+    			5.This not only tests your quads but also improves hip stability and mobility.
+	</string>
+	<string name="king_arthurs_pose">1.Start on hands and knees, toes touching a wall. \n \n
+    			2.Slide right knee back toward wall, moving top of foot up wall. \n \n
+    			3.Put your left foot on the floor, and push your torso up. \n \n
+    			4.Adjust your left foot so the knee is square, and place hands on the left knee. \n \n
+    			5.Adjust the back knee so you feel a stretch but pose is not painful. \n \n
+    			6.Breathe, then switch sides. \n \n
+    			7.Alternative: If this bothers your knee, perform a side-lying quad stretch by lying on your side, knees pulled into chest, holding your top ankle with your top hand. \n \n
+    			8.Pull the top leg behind your body to feel a stretch in the front of your thigh and hip. \n \n
+    			9.Hold for two seconds, then return to the starting position. \n \n
+    			10.Do a set of 10 on one side before repeating on the opposite side.
+	</string>
+	<string name="box_jump">1.Stand on two legs facing a box. \n \n
+    			2.Bend slightly at the knees to load your hips and swing your arms down and back. \n \n
+    			3.Using momentum, swing arms forward and jump onto the box, holding a stable landing position for two seconds. \n \n
+    			4.Step off the box and repeat.
+	</string>
+	<string name="single_leg_wall_squat">1.Stand with the ball between your lower back and a wall. \n \n
+    			2.Straighten left leg and flex foot to start. \n \n
+    			3.With core tight and shoulders engaged for stability, lower hips, allowing the ball to travel up the back, until the left leg is parallel to the floor. \n \n
+    			4.Reverse to start for one rep. Do all reps with the left leg raised, then switch legs.
+	</string>
+	<string name="banded_deadlift">1.Place a band around thighs, just above knees, and stand with feet just wider than shoulder-width apart, holding a moderate (30–40 pound) kettlebell in both hands. \n \n
+    			2.Hinge at hips and push butt back as you lower your torso and KB toward the floor, maintaining tension in your hamstrings and glutes. \n \n
+    			3.Push through heels to stand. \n \n
+    			4.After 2 sets of 8 to 10 reps, you can remove the band and load up a barbell. \n \n
+    			5.Doing this warmup consistently will improve your deadlifts.
+	</string>
+	<string name="banded_glute_bridge">1.Sit with knees bent, feet on the floor. \n \n
+    			2.Drape the resistance band over tops of thighs and secure the ends under each foot. \n \n
+    			3.Lie back, squeeze glutes and activate core, then press hips toward ceiling. \n \n
+    			4.Hold for one second, then lower for one rep.
+	</string>
+	<string name="reverse_airborne_lunge">1.Hold a 10- to 20-pound kettlebell at face height (it acts as a counterbalance). \n \n
+    			2.Standing on one foot, lift the other leg behind you, shin parallel to the floor. \n \n
+    			3.Shift hips back and slowly lower,until shin meets the floor.
+	</string>
+	<string name="inverted_hamstring">1.Stand, feet hip-width apart, to start. \n \n
+    			2.Shift weight left, inhale, lift right knee to chest, elbows down at sides, palms facing up near chest. \n \n
+    			3.Exhale, soften left knee, hinge forward, and extend arms, and right leg back. \n \n
+    			4.Reverse to start, then repeat on the right side for 1 rep.
+	</string>
+	<string name="worlds_greatest_stretch">1.Step forward with your left leg, and lower your body into a lunge. \n \n
+    			2.As you go down, place your right hand on the floor so it\’s even with your left foot. Your right knee should remain above the floor—not touching. \n \n
+    			3.Now move your left elbow inside your left foot, and rest it on the floor. \n \n
+    			4.Square your hips so you feel a stretch on both sides, and try to keep your back as flat as possible. \n \n
+    			5.Move your left hand outside your left foot, and twist to reach for the sky. \n \n
+    			6.Try to pull the toes on your left foot up to your shin.
+	</string>
+	<string name="broad_jump">1.Stand with your toes on a line. \n \n
+    			2.Pick a visual in front of you and jump toward that, hammering your arms back quickly as you leap.
+	</string>
+	<string name="overhead_squat_with_dowel_rod">1.Stand holding a dowel rod or broomstick above your head. \n \n
+    			2.Squat back and down until the top of your thighs are parallel to the floor. \n \n
+    			3.Push from your hips back to a standing position. \n \n
+    			4.The dowel encourages proper squatting mechanics and also works the back and shoulders in addition to the quads.
+	</string>
+	<string name="sumo_deadlift">1.Stand with your feet wider than shoulder-width apart, and your toes pointing out at a 45° angle, rather than straight ahead. \n \n
+								 2.Bend at the hips to lower and grab the bar. \n \n
+								 3.Opt for whatever grip you normally use for a deadlift, whether that\’s overhand or a mixed grip, with one underhand and one overhand. \n \n
+								 4.Make sure your back is flat in this bottom position and be careful not to round it at any point during the exercise. \n \n
+								 5.Drive through your heels and extend your knees and hips to lift the bar to mid-thigh height. \n \n
+								 6.Pull your shoulders back at the top of the move, then carefully lower the bar back to the ground, still being mindful not to round your back.
+	</string>
+	<string name="ab_wheel_rollout">1.Kneel on the floor and hold an ab wheel beneath your shoulders. \n \n
+    			2.Brace your abs and roll the wheel forward until you feel you\’re about to lose tension in your core and your hips might sag. \n \n
+    			3.Roll yourself back to start.
+	</string>
+	<string name="arms_high_partial_situp">1.Lie on your back, knees bent at 90 degrees, and raise your arms straight overhead, keeping them pointing up throughout the exercise. \n \n
+    			2.Sit up halfway, then steadily return to the floor. That\’s one rep.
+	</string>
+	<string name="barbell_rollout">1.Load the barbell with 10-pound plates and kneel on the floor behind it. \n \n
+            	2.Your shoulders should be over the bar. \n \n
+            	3.Brace your abs and roll the bar forward, reaching in front of you until you feel your hips are about to sag. \n \n
+            	4.Roll yourself back.
+	</string>
+	<string name="barbell_russian_twist">1.Grasp the barbell near the very end again—this time with both hands. \n \n
+        		2.Stand with feet at shoulder width. \n \n
+        		3.Swing the bar to your left, pivoting your feet as needed, then swing to your right.
+	</string>
+	<string name="swiss_ball_crunch">1.Lie back on the Swiss ball with feet shoulder-width apart on the floor. \n \n
+        		2.Your lower back should be supported by the ball. \n \n
+        		3.Place your hands behind your ears and tuck your chin. \n \n
+        		4.Curl your body up off the ball until you\’re sitting up.
+	</string>
+	<string name="dip_leg_raise_combo">1.Suspend yourself over the parallel bars at a dip station. \n \n
+    			2.Bend your knees slightly and raise your legs in front of you until they\’re parallel to the floor. \n \n
+    			3.This will build you a magazine-worthy six-pack.
+	</string>
+	<string name="flutter_kick">1.Lie on your back with legs straight and arms extend out at your sides. \n \n
+    			2.Lift your heels about 6 inches off the floor and rapidly kick your feet up and down in a quick, scissor-like motion.
+	</string>
+	<string name="getups">1.From a sitting position, raise your right hand in the air and stand using (at most) your left hand. If you have sufficient core strength, get up without the use of your arms. \n \n
+    			2.Do the prescribed number of reps on one side and switch sides. \n \n
+    			3.Work to the point where you get up without the use of your arms.
+	</string>
+	<string name="horizontal_cable_woodchop">1.Set an adjustable cable pulley to shoulder level (or attach a band to a sturdy object) and grasp the handle with both hands. \n \n
+        		2.Stand with feet shoulder width apart, perpendicular to the anchor point, and arms extended, far enough away from the machine so there\’s tension on the cable. \n \n
+        		3.Twist away from the machine as if you were chopping into a tree. \n \n
+        		4.Keep your feet stationary.
+	</string>
+	<string name="leg_raise">1.Lie on the floor and hold onto a bench or the legs of a heavy chair for support. \n \n
+        		2.Keep your legs straight and raise them up until they\’re vertical. \n \n
+        		3.Lower back down, but stop just short of the floor to keep tension on your abs before the next rep.
+	</string>
+	<string name="medicine_ball_russian_twist">1.Sit on the floor in the top position of a situp and, holding a medicine ball with both hands, extend your arms in front of you. \n \n
+        		2.Explosively twist your body to one side and then twist back. \n \n
+        		3.Alternate sides.
+	</string>
+	<string name="medicine_ball_mountain_climber">1.Hold the med ball with both hands and get into pushup position on the floor. \n \n
+        		2.Drive one knee up to your chest, then quickly drive it back while you raise the opposite knee.
+	</string>
+	<string name="pike_to_superman">1.Get into pushup position with your toes on the stability ball. \n \n
+        		2.Bend your hips and roll the ball toward you so your torso becomes vertical. \n \n
+        		3.Roll back so your body is straight again and extend your spine, then roll the ball up your legs so your body forms a straight line with arms extended overhead but hands still on the floor. You should look like Superman flying downward. That\’s one rep. \n \n
+        		4.Pull with your lats to return to the pushup position and begin the next rep.
+	</string>
+	<string name="plank">1.Get into pushup position and bend your elbows to lower your forearms to the floor. \n \n
+    			2.Hold the position with abs braced.
+	</string>
+	<string name="pullup_to_knee_raise">1.Hang from a pull-up bar with hands outside shoulder width and palms facing away from you. \n \n
+        		2.Pull yourself up until your chin is over the bar and then raise your knees to your chest in the top position.
+	</string>
+	<string name="pushup_rocket">1.Get into pushup position with your feet in the cradles of a suspension trainer. \n \n
+			2.Perform explosive push-ups so that your hands leave the floor and you can clap in midair.
+	</string>
+	<string name="resisted_reverse_crunch">1.Lie on your back on the floor and wrap the resistance band around the arches of your feet. \n \n
+        		2.Cross the ends of the band over each other to make an \'X\' and grasp the ends with opposite hands. \n \n
+        		3.Bend your hips and knees so that your knees are near your chest and then crunch your torso off the floor. \n \n
+        		4.Extend your legs while you raise your arms overhead—keep your shoulder blades off the floor. That\’s one rep.
+	</string>
+	<string name="swiss_ball_rollout">1.Rest your forearms on the Swiss ball and extend your legs behind you. \n \n
+        		2.Brace your abs and roll the ball forward as you extend your arms and hips. \n \n
+        		3.When you feel you\’re about to lose tension in your abs, roll yourself back.
+	</string>
+	<string name="medicinal_ball_seated_knee_tuck">1.Sit on a bench and squeeze the medicine ball between your feet. \n \n
+        		2.Extend and elevate your legs out in front of you and extend your torso so that your body forms a straight line. \n \n
+        		3.Hold on to the bench for support. \n \n
+        		4.Crunch your torso forward and bring your knees to your chest.
+	</string>
+	<string name="side_plank">1.Lie on your left side resting your left forearm on the floor for support. \n \n
+    			2.Raise your hips up so your body forms a straight line and brace your abs—your weight should be on your left forearm and the edge of your left foot. \n \n
+    			3.Hold the position with abs braced.
+	</string>
+	<string name="sprinter">1.Place your feet in the foot cradles of the suspension trainer and get into pushup position with your hands on the floor. \n \n
+        		2.Drive one knee to your chest while the other leg remains extended. \n \n
+        		3.Now drive the opposite leg to your chest while you extend the other back. \n \n
+        		4.Continue so it looks like you\’re running in place.
+	</string>
+	<string name="situp_and_throw">1.Hold a medicine ball with both hands in front of your chest and sit on the floor. \n \n
+        		2.Anchor your feet under something sturdy for support, and lie back on the floor a few feet away from a brick or concrete wall. \n \n
+        		3.Explosively sit up and throw the ball into the wall and then catch it on the rebound. \n \n
+        		4.If you have a partner, you can throw the ball to him/her instead.
+	</string>
+	<string name="star_plank">1.Get into pushup position. \n \n
+    			2.Move your arms and feet apart as wide as possible—your body will make a star shape. \n \n
+   	 		3.Hold the position with your torso straight and abs braced for 30 seconds.
+	</string>
+	<string name="straight_leg_barbell_situp">1.Lie on the floor holding an empty or lightly loaded barbell over your chest as in the top of a bench press. \n \n
+        		2.Your legs should be extended on the floor in front of you. \n \n
+        		3.Perform a sit-up, raising your torso until it\’s vertical. \n \n
+        		4.Keep the bar over your head, so it drifts back to an overhead press position at the top of the sit-up.
+	</string>
+	<string name="suitcase_deadlift">1.Load the barbell on the floor and stand to the left of it with feet hip-width apart. \n \n
+        		2.Bend your hips back and lower your body until you can grasp the barbell in its center with your right hand. \n \n
+        		3.Brace your core and, keeping your lower back in its natural arch, push through your heels to stand up and lock out your hips. \n \n
+        		4.Squeeze the bar hard to keep it from teetering. \n \n
+        		5.Focus on keeping your spine straight the entire set—do not bend laterally toward the barbell.
+	</string>
+	<string name="swiss_ball_plank_circle">1.Place a Swiss ball on the floor and get into pushup position with your hands on it. \n \n
+        		2.Now lower your forearms to rest on the ball, keeping your entire body in a straight line with abs braced. \n \n
+        		3.Use your elbows to roll the ball in a circular motion, clockwise and then counterclockwise, as if you were stirring a pot.
+	</string>
+	<string name="swiss_ball_v_up_and_pass">1.Lie on your back on the floor and hold the Swiss ball between your ankles. \n \n
+        		2.Extend your arms behind your head. \n \n
+        		3.Sit up while raising your legs simultaneously and pass the ball from your legs to your hands. \n \n
+        		4.Go back down to the floor and repeat, passing the ball from your hands to your legs. Each pass is one rep.
+	</string>
+	<string name="medicine_ball_v_up">1.Lie on your back on the floor holding the medicine ball with both hands behind your head. \n \n
+        		2.Extend your legs. \n \n
+        		3.Brace your abs and sit all the way up. \n \n
+        		4.Raise your legs simultaneously and reach for your toes with the ball. \n \n
+        		5.Your body should form a V shape at the top.
+	</string>
+	<string name="seated_sprinter">1.Sit, legs extended, heels lightly touching floor. \n \n
+    			2.Keeping your torso tall and shoulders back, lean back until core engages, making sure your lower back doesn\’t slump. \n \n
+    			3.Bend elbows at 90 degrees, and lift left knee toward ceiling, allowing left hand to come up and right hand to go back, like a runner, to start. \n \n
+    			4.Switch arm and leg positions back and forth continuously and fast, as if sprinting. \n \n
+    			5.Perform 40-sec reps.
+	</string>
+	<string name="half_kneeling_chop">1.Get into the bottom of a lunge position with your left leg forward and reach up over your left shoulder to grasp the resistance band. \n \n
+                  2.Pull it diagonally downward across your body to the outside of your right hip.
+	</string>
+	<string name="boat_pose">1.From a sitting position, extend your arms out, palms facing each other. \n \n
+    			2.Extend and lift both legs. \n \n
+    			3.If keeping your legs straight is too tough at first, bend at the knees, with the insides of your feet touching to do half boat. \n \n
+    			4.Keep your arms extended on either side of your legs. \n \n
+    			5.Use your abs to keep your back straight. \n \n
+    			6.Stay in this position for five deep breaths, roughly 10 seconds.
+	</string>
+	<string name="oblique_mountain_climbers">1.Start in pushup position, with the balls of your feet on the ground. \n \n
+    			2.Alternate driving your knees toward the opposite arm, twisting your body to that side, for 30 seconds. \n \n
+    			3.Keep your hips down for the entire motion.
+	</string>
+	<string name="hanging_windshield_wiper">1.While hanging from a bar, pull your toes toward the bar. \n \n
+    			2.Keeping control with your obliques and toes together, rotate your legs side to side. \n \n
+    			3.If this is too challenging at first, you can do a hanging leg lift.
+	</string>
+	<string name="banded_reverse_crunch">1.Attach a light resistance band to a pole at shin height. \n \n
+    			2.Sit on the floor facing the anchor, knees bent, the free end of the band across thighs. \n \n
+    			3.Scooch back until the band is taut, then lie back and grasp a heavy kettlebell behind your head to anchor the upper body. \n \n
+   	 		4.Draw belly in, lift lower back off the floor, and roll hips and knees toward shoulders, then reverse.
+	</string>
+	<string name="waiters_walk_abs">1.Grab a dumbbell or kettlebell in one hand and hold it either overhead or with your elbow bent so it\’s near your face. \n \n
+    			2.Keep your shoulder blades pulled back and down and fire your glutes as you walk. \n \n
+    			3.Keep your wrists straight, as if you were waiting tables and holding a tray. \n \n
+    			4.Walk 10 yards out and 10 yards back. \n \n
+    			5.Switch hands and repeat.
+	</string>
+	<string name="t_pushup_abs">1.Start in pushup position, arms straight, with hands on light dumbbells (or start without weights, as shown). \n \n
+    			2.Lower yourself and as you push back up, lift your left arm and rotate to the left until your left arm is straight up and your right side faces the floor. \n \n
+    			3.Your body should look like a \'T\' on its side. \n \n
+    			4.Return to starting position and repeat on the other side.
+	</string>
+	<string name="bird_dog_crunch">1.Kneel on all fours. \n \n
+    			2.Reach one arm as far as possible forward and the opposite foot as far as possible behind. \n \n
+    			3.Bring your elbow and knee together to crunch, drawing in the abs.
+	</string>
+	<string name="one_arm_farmers_carry">1.Carrying just one dumbbell forces the abs to work overtime to keep you stabilized. \n \n
+    			2.While carrying a dumbbell in one hand, walk 10 yards out and 10 yards back. Don\’t hunch over. \n \n
+    			3.Keep your shoulder blades pulled down and back, and fire your glutes as you walk. \n \n
+    			4.Switch hands and repeat.
+	</string>
+	<string name="burpee_abs">1.This is a full-body move that\’s an underrated abs exercise. \n \n
+    			2.From a standing position, squat, place your hands on the ground, and \'jump\' your feet out into a pushup position. \n \n
+    			3.Perform a pushup, then jump your feet to your hands. \n \n
+    			4.Explosively jump as high as you can, throwing your hands over your head.
+	</string>
+	<string name="swiss_ball_plate_crunch">1.Lie supine on a Swiss ball with your torso arched over the ball. \n \n
+    			2.Touch your shoulders, back, and glutes to the ball so your abs are stretched. \n \n
+    			3.Hold a weight plate over your head. \n \n
+    			4.Roll your hips and chest up, crunching from the top of your torso. \n \n
+    			5.Lower your hips and chest to the starting position.
+	</string>
+	<string name="medicine_ball_rotational_throw_abs">1.Stand facing a wall with feet shoulder-width apart, holding a medicine ball in both hands. \n \n
+   	 		2.Rotate your shoulders, hips, and torso away from the wall, taking the ball behind your hip. \n \n
+    			3.Turn your hip back to the wall and rotate the rest of your body, throwing the ball to the wall. \n \n
+    			4.Switch sides.
+	</string>
+	<string name="medicine_ball_slam">1.With knees slightly bent, raise the medicine ball with two hands overhead with arms extended. \n \n
+    			2.Rise on the balls of your feet and bend at the waist to slam the ball to the ground.
+	</string>
+	<string name="corkscrew">1.Lie on your back, arms along sides, legs straight at a 45-degree angle to floor to start. \n \n
+    			2.Inhale, bring legs toward torso and roll spine off mat into a hover position—hips are off the ground and tipped back, feet are overhead. \n \n
+    			3.Exhale, press through hands and tilt legs to left as you roll down the spine through the center at a 45-degree angle. \n \n
+    			4.Tilt legs to right and roll back up to hover to complete a circle.
+	</string>
+	<string name="cable_crunch">1.Attach a rope to a high pulley. \n \n
+    			2.Kneel in front of it, grabbing the rope handles on either side of your neck. \n \n
+    			3.Contract your abs to bring your elbows to your thighs. \n \n
+    			4.Pause briefly and return to starting position.
+	</string>
+	<string name="side_plank_row">1.Start in a right forearm-down side plank, feet stacked, left hand holding a resistance band anchored in front of body. \n \n
+    			2.Pull left elbow back, then release for one rep. \n \n
+    			3.Do all reps on the left side, then switch sides.
+	</string>
+	<string name="single_leg_oblique_dip">1.Stand on left leg with right leg bent at 90 degrees, foot flexed, holding a heavy dumb­bell in left hand. \n \n
+    			2.Don\’t rush: Keep obliques and glutes engaged as you dip toward the left.
+	</string>
+	<string name="plyo_plank_shuffle">1.Start in a high plank, hands under shoulders, toes on a BOSU. \n \n
+    			2.Keeping your upper body still, and arms and legs straight, step left foot to the side, a foot away from the BOSU, then return foot to the ball. \n \n
+    			3.Repeat on the right side for 1 rep. \n \n
+    			4.For a challenge, move legs in unison. \n \n
+    			5.Start with the left leg a foot away from the BOSU, then engage hips and push off with both feet, so the left foot lands on the ball and right foot on the floor. \n \n
+    			6.Continue alternating sides. \n \n
+    			7.Perform 40-sec reps.
+	</string>
+	<string name="front_squat_abs">1.Set a barbell on a power rack at about shoulder height (if you don\’t have a rack, clean it to your shoulders). \n \n
+        		2.Grasp the bar with hands at shoulder width and raise your elbows until your upper arms are parallel to the floor. \n \n
+        		3.Take the bar out of the rack and let it rest on your fingertips—as long as your elbows stay up, you’ll be able to balance the bar. \n \n
+        		4.Step back and set your feet at shoulder width with toes turned out slightly. \n \n
+        		5.Squat as low as you can without losing the arch in your lower back.
+	</string>
+	<string name="weighted_situp">1.Lie on the floor holding a weight plate at your chest. \n \n
+        		2.Bend your knees 90 degrees with feet on the floor. \n \n
+        		3.Tuck your chin to your chest and sit up all the way.
+	</string>
+	<string name="kettlebell_plank_sweeps">1.Hold a high plank with a kettlebell just outside your left hand. \n \n
+    			2.Reach under your torso to grab the kettlebell with your right hand and \'sweep\' or drag the KB back and forth with a full range of motion. \n \n
+    			3.Keep your core tight, glutes engaged, and hips level. \n \n
+    			4.Your obliques should power this exercise. \n \n
+    			5.Perform 60-sec reps.
+	</string>
+	<string name="skull_crushers">1.Sit on the bench with the barbell on your lap. \n \n
+								  2.Grasp the barbell with a shoulder-width grip, palms facing down, while keeping your wrists straight. \n \n
+    							  3.Lie on your back as you bring the weight up to a position over your collarbone. \n \n
+								  4.Keeping your shoulders stable, slowly bend your elbows, bringing the weight down to just past your head. Keep your elbows pointing straight ahead as you lower the weight. \n \n
+    							  5.Hold for 1–2 seconds. Then straighten your elbows, pushing the weight back to an overhead position. Keep your humerus bone fixed in space throughout the movement.
+	</string>
+	<string name="single_arm_cable_extension">1.Using your right hand, grab a single handle attached to a high-cable pulley using an underhand grip. You should be positioned directly in front of the weight stack. \n \n
+	2.Pull the handle down, making sure that your upper arm and elbows are locked in to the side of your body. Your upper arm and forearm should be positioned so that the angle is less than 90 degrees. Keep your other arm close to your waist, with one leg in front of you and the other one back. This position will help you keep your balance, and is the starting one for the exercise. \n \n
+	3.As you contract your triceps, move the handle down to your side until your arm is straight. Exhale while performing this movement. \n \n
+	4.Squeeze your triceps and hold for a second in the contracted position. \n \n
+	5.Slowly return the handle to the starting position. \n \n
+	6.Repeat for the number of reps in your set and then do the same with your other arm.
+	</string>
+	<string name="reverse_grip_cable_extension">1.From a standing position, grasp a straight bar attached to the high pulley cable with an underhand grip. \n \n
+	2.Keeping your elbows pivoted by your side and wrists straight, press the weight down in a semicircular arc until your arms are fully extended but not locked out. \n \n
+	3.Squeeze at the peak contraction before lowering the weight slowly to the start position. \n \n
+	4.Allow your forearms to come back as high as possible without moving your elbows before pressing down for another rep. \n \n
+	5.To maximize the resistance on the triceps brachii muscle, keep your upper arm parallel to the cable.
+	</string>
+	<string name="overhead_triceps_extension">1.Stand with a weight grasped overhead. \n \n
+	2.Keep your core and shoulders stable. \n \n
+	3.Slowly lower the weight behind your back, then return and repeat.
+	</string>
+	<string name="close_grip_lat_pulldown">1.Attach a wide grip handle to the lat pulldown machine and assume a seated position. \n \n
+    2.Grasp the handle with a pronated grip (double underhand) at shoulder width. \n \n
+    3.Initiate the movement by depressing the shoulder blades and then flexing the elbow while extending the shoulder. \n \n
+    4.Pull the handle towards your body until the elbows are in line with your torso and then slowly lower the handle back to the starting position under control. \n \n
+    5.Repeat for the desired number of reps.
+	</string>
+	<string name="dumbbell_lateral_raise">
+    1.Grab a set of dumbbells and stand straight up with the dumbbells at your sides. \n \n
+    2.Your palms should be facing your body. You should be holding the dumbbells slightly off your body, as this keeps the tension on the side delts. This is your starting position for the exercise. \n \n
+    3.To execute, slowly raise the dumbbells up to around shoulder height. It\'s important that you do not let your wrists go above your elbows while raising the weight, as this will take the work off the side delts and put it on the front delts. \n \n
+    4.Pause at the top of the movement, and then slowly lower the weight back to the starting position. \n \n
+    5.Do not let the dumbbells touch your body, and then raise them for the next rep.
+	</string>
+	<string name="dumbbell_front_raise">1.Lift the weights upward while inhaling. Your arms are extended, palms facing down, with a slight bend in the elbows to reduce the stress on the joints. \n \n
+	2.Pause briefly when your arms are horizontal to the floor. \n \n
+	3.Lower the dumbbells to the starting position (at the thighs) with a slow and controlled motion while exhaling.
+	</string>
+	<string name="seated_overhead_dumbbell_press">1.Hold the dumbbells by your shoulders with your palms facing forwards and your elbows out to the sides and bent at a 90° angle. \n \n
+	2.Without leaning back, extend through your elbows to press the weights above your head. \n \n
+	3.Then slowly return to the starting position.
+	</string>
+	<string name="barbell_row">1.Once you have your barbell loaded, stand with your feet shoulder-width apart. \n \n
+	2.Bend your knees and lean forward from the waist. \n \n
+	3.Your knees should be bent, but your back stays straight, with your neck in line with your spine. \n \n
+	4.Grab the bar with your hands (palms-down), just wider than shoulder-width apart and let it hang with your arms straight. \n \n
+	5.Brace your core and squeeze your shoulders together to row the weight up until it touches your sternum, then slowly lower it back down again. There\’s one rep.
+	</string>
+	<string name="t_bar_row">1.Place the end of an empty barbell into the corner of a room. \n \n
+	2.Rest a heavy dumbbell or some weight plates on it to hold it down. \n \n
+	3.Load the opposite end of the bar with plates and straddle it. \n \n
+	4.Bend over at the hips until your torso is about a 45-degree angle to the floor with arms extended. \n \n
+	5.Hook a V-grip handle (the kind you see at a cable station) under the bar and hold with both hands. \n \n
+	6.Keeping your lower back in its natural arch, squeeze your shoulder blades together and pull the bar until the plates touch your chest.
+	</string>
+	<string name="wide_grip_seated_cable_row">1.Grip a bar slightly wider than shoulder width, and assume the starting position. \n \n
+	2.Inhale and pull the handle towards your abdomen, while leaning back slightly. \n \n
+	3.Exhale and slowly return to the starting position by extending your arms and leaning forward.
+	</string>
+	<string name="seated_leg_curl">1.Set up the machine so that the pads sit comfortably against your lower back when you sit on it. \n \n
+	2.Put your legs on the padded lever so it sits just below your calf muscles, and set up the lap pad so it sits on your thighs just above the knees. \n \n
+	3.Lift your legs so they are straight out in front of you and grasp the side handles on the machine. \n \n
+	4.Pull the padded lever down and back towards you as far as you can with your legs, hold for a second, then slowly bring it back to the starting position.
+	</string>
+	<string name="high_cable_flies">1.Stand tall in the middle of a cable machine, holding a D-handle attached to the high pulley in each hand with a slight bend in your elbows. \n \n
+	2.Keeping your chest up and core braced, initiate the move and – still with that bend in your elbows – bring your hands around in front of your body to meet between chest and bellybutton height. \n \n
+	3.As your hands come together, rotate your wrists so your palms face upwards, then hold your hands together with little fingers touching, squeezing your chest muscles hard. Focusing on how this movement of your wrist and arms places tension on the middle of your chest, hold the position for a one or two count. \n \n
+	4.Slowly reverse the movement all the way to the start, keeping full control of the weight throughout the return.
+	</string>
+	<string name="triceps_pushdown">1.Begin by setting the pulley to the highest height setting on the cable machine, then grab the handle with an overhand grip. \n \n
+	2.Take a step backward to move the weight off of the weight stack. \n \n
+	3.Stand tall with your feet slightly wider than hip-width apart and a slight bend in your knees. Your shoulders should be directly over your hips with a neutral head and neck position. Your chin should remain tucked throughout the movement as if you were holding an egg under your chin. \n \n
+	4.With the weight on your feet evenly distributed, grip the floor with your feet to create a stable foot position. Your upper arms should be against your ribcage and your lower arms should be in contact with your upper arm with neutral shoulder blades. Pre-tension your shoulders and hips and engage your core. All repetitions should begin from this position. \n \n
+	5.While maintaining your alignment, squeeze your triceps to begin straightening your elbows. Finish the movement by squeezing your triceps and maintaining a slight bend in your elbows. Movement should only occur at your elbows. \n \n
+	6.Slowly bend your elbows to return to the starting position.
+	</string>
+	<string name="cable_triceps_kickback">1.Set up for the cable triceps kickback by attaching a single grip handle to a low pulley cable machine and selecting the weight you want to use. \n \n
+	2.Grasp the handle using your left hand with an overhand grip and take a step back from the cable machine. \n \n
+	3.Keeping your feet together and knees slightly bent, bend down until your body is around parallel to the floor. \n \n
+	4.Use your free right hand to stabilize yourself. \n \n
+	5.Bring the elbow up as far as possible and keep it tight in by your side. This is the starting position for the exercise. \n \n
+	6.Keeping your elbow in place and your body fixed, and extend your arm out as far as possible. \n \n
+	7.Squeeze the tricep, and then slowly lower the weight back to the starting position. \n \n
+	8.Repeat for desired reps.
+	</string>
+    <string-array name="pushExercisesArray">
+        <item>Chest</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+    </string-array>
+	<string-array name="pullExercisesArray">
+		<item>Back</item>
+		<item>Biceps</item>
+		<item>Forearms</item>
+	</string-array>
+	<string-array name="legsExercisesArray">
+		<item>Legs</item>
+		<item>Abs</item>
+	</string-array>
+	<string-array name="MondayArray">
+		<item>Chest</item>
+		<item>Triceps</item>
+		<item>Shoulders</item>
+		<item>Back</item>
+		<item>Biceps</item>
+		<item>Forearms</item>
+		<item>Legs</item>
+		<item>Abs</item>
+	</string-array>
+</resources>

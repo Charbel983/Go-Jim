@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/TabTextAppearance</item>
+    </style>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/customGreen</item>
+        <item name="colorPrimaryDark">@color/customGreen</item>
+    </style>
+
+    <style name="CustomTheme2" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/red</item>
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">5sp</item>
+        <item name="android:textColor">@android:color/white</item>
+<!--        <item name="textAllCaps">true</item>-->
+    </style>
+    
+    <style name="customFloatButton">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/custom_floating_action_button</item>
+    </style>
+</resources>

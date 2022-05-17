@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <View
+            android:id="@+id/dummy"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            tools:ignore="MissingConstraints" />
+
+
+    <ImageView
+        android:id="@+id/chosenExerciseImageView"
+        android:layout_width="411dp"
+        android:layout_height="200dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_gallery"
+        tools:srcCompat="@drawable/bench_press_1_1000x1000" />
+
+        <TextView
+            android:id="@+id/chosenExerciseNameTextView"
+            android:layout_width="310dp"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chosenExerciseImageView"
+            tools:text="Bench Press" />
+
+    <EditText
+        android:id="@+id/chosenExerciseWeightPREditText"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="4dp"
+        android:ems="10"
+        android:hint="Weight"
+        android:imeOptions="actionDone"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toStartOf="@+id/prWeightTextView"
+        app:layout_constraintTop_toBottomOf="@+id/prTextView"
+        tools:text="140kg" />
+
+    <EditText
+        android:id="@+id/chosenExerciseRepsPREditText"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="4dp"
+        android:ems="10"
+        android:imeOptions="actionDone"
+        android:inputType="number"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toStartOf="@+id/prRepsTextView"
+        app:layout_constraintTop_toBottomOf="@+id/prTextView"
+        tools:text="1" />
+
+    <TextView
+        android:id="@+id/prRepsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="reps"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/chosenExerciseRepsPREditText" />
+
+    <TextView
+        android:id="@+id/prTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="75dp"
+        android:text="PR : "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chosenExerciseDescriptionTextView" />
+
+    <TextView
+        android:id="@+id/repsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="reps"
+        android:textSize="16sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/chosenExerciseRepsEditText"
+        app:layout_constraintStart_toEndOf="@+id/chosenExerciseRepsEditText" />
+
+    <EditText
+        android:id="@+id/chosenExerciseRepsEditText"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:imeOptions="actionDone"
+        android:inputType="number"
+        android:textAlignment="center"
+        app:layout_constraintStart_toEndOf="@+id/chosenExerciseSetsTextView"
+        app:layout_constraintTop_toBottomOf="@+id/chosenExerciseDescriptionTextView"
+        tools:text="10" />
+
+    <TextView
+        android:id="@+id/prWeightTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="2dp"
+        android:text="for"
+        app:layout_constraintEnd_toStartOf="@+id/chosenExerciseRepsPREditText"
+        app:layout_constraintTop_toBottomOf="@+id/prTextView" />
+
+        <TextView
+            android:id="@+id/chosenExerciseDescriptionTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:maxLines="15"
+            android:scrollbars="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chosenExerciseNameTextView"
+            tools:text="Lay down on the bench, try to arch your back while your ass is still touching the bench, eyes should be facing the barbell. Choose your grip mode, remember that the closer the grip is, the more the exercise targets triceps and the wider the grip is, the more it targets your chest. Also remember to warm up by benching Bunsie" />
+
+    <EditText
+        android:id="@+id/chosenExerciseSetsEditText"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:imeOptions="actionDone"
+        android:inputType="number"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chosenExerciseDescriptionTextView"
+        tools:text="4" />
+
+        <TextView
+            android:id="@+id/chosenExerciseSetsTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sets"
+            app:layout_constraintBaseline_toBaselineOf="@+id/chosenExerciseSetsEditText"
+            app:layout_constraintStart_toEndOf="@+id/chosenExerciseSetsEditText" />
+
+    <Button
+        android:id="@+id/chosenExerciseCloseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="#00FFFFFF"
+        android:text="Close"
+        android:textColor="#2196F3"
+        android:textStyle="bold"
+        app:iconTint="#00FFFFFF"
+        app:iconTintMode="src_in"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chosenExerciseWeightPREditText" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
